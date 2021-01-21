@@ -24,12 +24,40 @@
           GitHub
         </a>
       </div>
+      <div class="grid grid-cols-2">
+        <div class="bg-gris_clair m-8 p-2 rounded-lg">
+          <h2>Actualités</h2>
+          <li v-for="New of news.slice(0, 5)" :key="New.slug">
+            <NuxtLink :to="New.slug">
+              {{ New.title }}
+            </NuxtLink>
+          </li>
+        </div>
+        <div class="bg-gris_clair m-8 p-2 rounded-lg">
+          <h2 class="text-vert">
+            Articles de blog
+          </h2>
+          <li v-for="post of posts.slice(0, 5)" :key="post.slug">
+            <NuxtLink :to="post.slug">
+              {{ post.title }}
+            </NuxtLink>
+          </li>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
+  async asyncData ({ $content }) {
+    const posts = await $content('blog').fetch()
+    const news = await $content('actualites').fetch()
+    return {
+      posts,
+      news
+    }
+  },
   head () {
     return {
       script: [
