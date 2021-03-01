@@ -20,9 +20,9 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Texte', name: 'body', widget: 'markdown' }
 
-  - name: 'Actualités'
+  - name: 'Actualites'
     label: 'Actualites'
-    folder: 'content/actualites'
+    folder: 'content/actu'
     format: 'frontmatter'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'

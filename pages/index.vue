@@ -1,40 +1,43 @@
 <template>
-  <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">
+  <div class="container p-0">
+    <TheNavBar />
+    <div class="w-screen">
+      <img
+        class="w-screen"
+        src="/img/writing_aaronBurden.jpg"
+        alt="writing with a fountain pen"
+      >
+      <h1 class="title md:text-6x1">
         Semaphore
       </h1>
-
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-      <div class="grid grid-cols-2">
-        <div class="bg-gris_clair m-8 p-2 rounded-lg">
+      <div class="flex flex-col md:flex-row justify-evenly items-center md:items-start">
+        <div class="w-10/12 md:w-1/3">
           <h2>Actualités</h2>
-          <li v-for="New of news.slice(0, 5)" :key="New.slug">
-            <NuxtLink :to="New.slug">
-              {{ New.title }}
-            </NuxtLink>
-          </li>
+          <v-card
+            v-for="New of news.slice(0, 5)"
+            :key="New.slug"
+            class="mx-auto my-3"
+          >
+            <v-card-text>
+              <div>{{ New.title }}</div>
+              <p class="display-1 text-vert">
+                {{ New.date }}
+              </p>
+              <div class="text--primary">
+                {{ New.description }}
+              </div>
+            </v-card-text>
+            <v-card-actions>
+              <v-btn class=" m-auto">
+                <NuxtLink :to="New.slug" class="text-orange">
+                  Plus d'info
+                </NuxtLink>
+              </v-btn>
+            </v-card-actions>
+          </v-card>
         </div>
-        <div class="bg-gris_clair m-8 p-2 rounded-lg">
-          <h2 class="text-vert">
+        <div class="w-10/12 md:w-1/3">
+          <h2>
             Articles de blog
           </h2>
           <li v-for="post of posts.slice(0, 5)" :key="post.slug">
@@ -44,6 +47,7 @@
           </li>
         </div>
       </div>
+      <div>ieu</div>
     </div>
   </div>
 </template>
@@ -52,7 +56,7 @@
 export default {
   async asyncData ({ $content }) {
     const posts = await $content('blog').fetch()
-    const news = await $content('actualites').fetch()
+    const news = await $content('actu').fetch()
     return {
       posts,
       news
@@ -75,22 +79,28 @@ export default {
 }
 */
 .container {
-  margin: 0 auto;
-  min-height: 100vh;
+  margin: 0 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
+  max-width: max-content;
 }
 
 .title {
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: block;
-  font-weight: 300;
-  font-size: 100px;
+  font-weight: 800;
   color: #35495e;
-  letter-spacing: 1px;
+
+}
+
+@media (min-width: 860px) {
+  .title {
+    font-size: 8em;
+  }
 }
 
 .subtitle {
