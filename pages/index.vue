@@ -1,7 +1,7 @@
 <template>
   <div class="container p-0">
-    <TheNavBar />
     <div class="w-screen">
+      <TheNavBar />
       <img
         class="w-screen"
         src="/img/writing_aaronBurden.jpg"
@@ -36,29 +36,20 @@
             </v-card-actions>
           </v-card>
         </div>
-        <div class="w-10/12 md:w-1/3">
-          <h2>
-            Articles de blog
-          </h2>
-          <li v-for="post of posts.slice(0, 5)" :key="post.slug">
-            <NuxtLink :to="post.slug">
-              {{ post.title }}
-            </NuxtLink>
-          </li>
-        </div>
       </div>
-      <div>ieu</div>
     </div>
   </div>
 </template>
 
 <script>
+import TheNavBar from '@/components/TheNavBar'
 export default {
+  components: {
+    TheNavBar
+  },
   async asyncData ({ $content }) {
-    const posts = await $content('blog').fetch()
     const news = await $content('actu').fetch()
     return {
-      posts,
       news
     }
   },
