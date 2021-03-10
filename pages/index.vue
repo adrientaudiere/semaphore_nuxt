@@ -3,7 +3,7 @@
     <div class="w-screen flex-auto h-full">
       <img
         class="w-screen"
-        src="/img/writing_aaronBurden.jpg"
+        src="/img/writing_aaronBurden.webp"
         alt="writing with a fountain pen"
       >
       <h1 class="md:text-6xl mb-6 text-vert text-center">
@@ -36,6 +36,8 @@
           </p>
         </nuxt-link>
       </div>
+
+<hr class="text-violet mt-8 border-2 opacity-75" />
 
       <h2 id="actualite" class="text-center text-violet">
         Actualités
