@@ -31,15 +31,15 @@
         <nuxt-link to="/apropos" class="block">
           <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
         </nuxt-link>
-        <nuxt-link to="/formation-conference" class="block">
+        <nuxt-link to="/formation" class="block">
           <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
           conférences
         </nuxt-link>
-        <nuxt-link to="/services-entreprises" class="block">
+        <nuxt-link to="/entreprises" class="block">
           <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
           entreprises
         </nuxt-link>
-        <nuxt-link to="/orientation-consultation" class="block">
+        <nuxt-link to="/consultation" class="block">
           <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation
           et consultations
         </nuxt-link>
@@ -53,15 +53,15 @@
       <nuxt-link to="/apropos" class="flex-auto">
         <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
       </nuxt-link>
-      <nuxt-link to="/formation-conference" class="flex-auto">
+      <nuxt-link to="/formation" class="flex-auto">
         <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
         conférences
       </nuxt-link>
-      <nuxt-link to="/services-entreprises" class="flex-auto">
+      <nuxt-link to="/entreprises" class="flex-auto">
         <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
         entreprises
       </nuxt-link>
-      <nuxt-link to="/orientation-consultation" class="flex-auto">
+      <nuxt-link to="/consultation" class="flex-auto">
         <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation et
         consultations
       </nuxt-link>

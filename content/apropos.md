@@ -6,7 +6,7 @@ title: À propos de Sémaphore
 
 Dans une entreprise, chaque individu apporte sa contribution en fonction de ses compétences, ses expériences, ses dispositions et ses aptitudes.
 
-<img src="/img/Laurence.jpg" class="float-right ml-4 md:ml-8 mt-4 mb-4 w-1/2 md:w-1/5 rounded-md"  alt="photo Laurence" />
+<img src="/img/Laurence.jpg" class="float-right ml-4 md:ml-8 mt-4 mb-4 w-1/2 md:w-1/4 rounded-md"  alt="photo Laurence" />
 
 La mission de **Sémaphore**, représenté par Laurence Crespel Taudière, consiste à accompagner les organisations, entreprises et collectivités, à identifier et optimiser le potentiel de leurs ressources humaines, grâce à des outils et méthodes appropriés en termes de recrutement, <abbr title="Gestion Prévisionnelle de l’Emploi et des Compétences"> GPEC</abbr> et formations.
 

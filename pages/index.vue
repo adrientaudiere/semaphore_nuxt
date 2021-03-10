@@ -6,23 +6,42 @@
         src="/img/writing_aaronBurden.jpg"
         alt="writing with a fountain pen"
       >
-      <h1 class="title md:text-4x1">
+      <h1 class="md:text-6xl mb-6 text-vert text-center">
         Semaphore
       </h1>
 
-      <div class="flex mx-2 md:mx-8">
-        <nuxt-link class="w-5/12" to="/consultation">
-          <img src="img/undraw/undraw_hire_te5y.min.svg" alt="" sizes="" srcset="">
+      <div class="grid grid-cols-2 gap-y-8 md:grid-cols-4 mx-2 md:mx-8 mb-4 gap-x-8">
+        <nuxt-link class="hover:opacity-75" to="/formation">
+          <img src="img/undraw/undraw_knowledge_g5gf.min.svg" alt="" sizes="" srcset="">
+          <p class="md:text-xl text-vert font-bold font-serif">
+            Formation - conférence
+          </p>
         </nuxt-link>
-        <img src="img/undraw/undraw_knowledge_g5gf.min.svg" alt="" sizes="" srcset="" class="w-5/12">
-        <img src="img/undraw/undraw_light_the_fire_gt58.min.svg" alt="" sizes="" srcset="" class="w-5/12">
-        <img src="img/undraw/undraw_options_2fvi.min.svg" alt="" sizes="" srcset="" class="w-5/12">
+        <nuxt-link class="hover:opacity-75" to="/entreprises">
+          <img src="img/undraw/undraw_hire_te5y.min.svg" alt="" sizes="" srcset="">
+          <p class="md:text-xl text-vert font-bold font-serif">
+            Services aux entreprises
+          </p>
+        </nuxt-link>
+        <nuxt-link class="hover:opacity-75" to="/consultation">
+          <img src="img/undraw/undraw_light_the_fire_gt58.min.svg" alt="" sizes="" srcset="">
+          <p class="md:text-xl text-vert font-bold font-serif">
+            Réorientation
+          </p>
+        </nuxt-link>
+        <nuxt-link class="hover:opacity-75" to="/consultation">
+          <img src="img/undraw/undraw_options_2fvi.min.svg" alt="" sizes="" srcset="">
+          <p class="md:text-xl text-vert font-bold font-serif">
+            Consultation
+          </p>
+        </nuxt-link>
       </div>
-      <h2 id="actualite">
+
+      <h2 id="actualite" class="text-center text-violet">
         Actualités
       </h2>
       <div
-        class="flex z-0 flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8"
+        class="flex z-0 flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
       >
         <v-card
           v-for="New of news.slice(0, 5)"
@@ -30,17 +49,17 @@
           class="my-3"
         >
           <v-card-text>
-            <div>{{ New.title }}</div>
-            <p class="display-1 text-vert">
+            <div class="text-violet font-bold font-serif">{{ New.title }}</div>
+            <p class="display-1 text-violet">
               {{ New.date }}
             </p>
-            <div class="text--primary">
+            <div class="text--primary font-sans md:max-w-sm">
               {{ New.description }}
             </div>
           </v-card-text>
           <v-card-actions>
             <v-btn class="m-auto">
-              <NuxtLink :to="New.slug" class="text-orange">
+              <NuxtLink :to="New.slug" class="text-vert">
                 Plus d'info
               </NuxtLink>
             </v-btn>
@@ -84,29 +103,6 @@ export default {
   text-align: center;
   max-width: max-content;
 }
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  display: block;
-  font-weight: 800;
-  color: #35495e;
-}
-
-@media (min-width: 860px) {
-  .title {
-    font-size: 8em;
-  }
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
 .links {
   padding-top: 15px;
 }

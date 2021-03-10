@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ['Quicksand', 'sans-serif'],
-      serif: ['Georgia', 'serif']
+      serif: ['Georgia', 'serif'],
+      body: ['Quicksand', 'sans-serif']
     },
     colors: {
       gris: '#454839',
@@ -16,6 +17,5 @@ module.exports = {
       gris_clair: '#aaad9b',
       violet: '#663F46'
     }
-  },
-  plugins: [require('nightwind')],
+  }
 }

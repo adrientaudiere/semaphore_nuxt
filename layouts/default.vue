@@ -1,11 +1,11 @@
 <template>
- <div class="container p-0 flex-col">
+  <div class="container p-0 flex-col">
     <div class="w-screen flex-auto">
       <TheNavBar />
       <nuxt />
     </div>
     <TheFooter />
- </div>
+  </div>
 </template>
 
 <style>
@@ -26,6 +26,21 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+
+p {
+  text-indent: 22px;
+}
+
+h1, h2, h3, h4, h5 {
+  @apply font-sans;
+  @apply font-semibold;
+  @apply mt-4;
+  @apply text-left;
+}
+
+h3 {
+  @apply text-xl
 }
 
 *,
