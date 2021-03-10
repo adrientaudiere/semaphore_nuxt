@@ -1,8 +1,14 @@
 <template>
-  <div>
-    <h1>{{ page.title }}</h1>
-    <h3 class="text-4xl">{{ page.description }} </h3>
-    <nuxt-content :document="page" />
+  <div class="container p-0 flex-col">
+    <div class="w-screen h-full">
+      <div class="mx-4 md:mx-24 my-12 text-justify max-w-prose">
+        <h1>{{ page.title }}</h1>
+        <h3 class="text-2xl font-bold">
+          {{ page.description }}
+        </h3>
+        <nuxt-content :document="page" />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -16,3 +22,9 @@ export default {
   }
 }
 </script>
+
+<style>
+p {
+  padding-top: 14px;
+}
+</style>

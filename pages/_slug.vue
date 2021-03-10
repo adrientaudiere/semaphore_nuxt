@@ -1,7 +1,11 @@
 <template>
-  <div>
-    <h2>{{ actu.title }}</h2>
-    <nuxt-content :document="actu" />
+  <div class="container p-0 flex-col">
+    <div class="w-screen h-full">
+      <div class="my-12">
+        <h2>{{ actu.title }}</h2>
+        <nuxt-content :document="actu" />
+      </div>
+    </div>
   </div>
 </template>
 

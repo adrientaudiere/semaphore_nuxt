@@ -1,8 +1,11 @@
 <template>
-  <div class="container">
-    <TheNavbar />
-    <nuxt />
-  </div>
+ <div class="container p-0 flex-col">
+    <div class="w-screen flex-auto">
+      <TheNavBar />
+      <nuxt />
+    </div>
+    <TheFooter />
+ </div>
 </template>
 
 <style>
@@ -30,5 +33,16 @@ html {
 *::after {
   box-sizing: border-box;
   margin: 0;
+}
+
+a {
+  @apply text-vert;
+}
+a:hover {
+  @apply text-opacity-50;
+}
+
+ul {
+ list-style:  circle inside;
 }
 </style>

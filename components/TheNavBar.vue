@@ -1,10 +1,10 @@
 <template>
-  <nav class="nav sm:w-screen ">
+  <nav class="nav sm:w-screen">
     <div class="flex flex-row justify-between">
       <div
         v-if="isHidden"
         id="nav-toogle"
-        class="md:hidden bg-transparent fixed"
+        class="md:hidden bg-white fixed z-50"
         @click="isHidden = false"
       >
         <img
@@ -14,7 +14,11 @@
           class="h-8 m-2"
         >
       </div>
-      <div v-if="!isHidden" id="nav-content" class="bg-gris  w-screen">
+      <div
+        v-if="!isHidden"
+        id="nav-content"
+        class="bg-gris  w-screen z-50 fixed"
+      >
         <img
           src="/img/croix.svg"
           alt="menu icon"
@@ -22,44 +26,47 @@
           @click="isHidden = true"
         >
         <nuxt-link to="/" exact class="block">
-          Semaphore
+          <i class="fa fa-university" aria-hidden="true" /> Semaphore
         </nuxt-link>
-        <nuxt-link to="/qui-suis-je" class="block">
-          Qui suis-je
+        <nuxt-link to="/apropos" class="block">
+          <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
         </nuxt-link>
-        <nuxt-link to="/aieu" class="block">
-          Formation et conférences
+        <nuxt-link to="/formation-conference" class="block">
+          <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
+          conférences
         </nuxt-link>
-        <nuxt-link to="/auiea" class="block">
-          Services aux entreprises
+        <nuxt-link to="/services-entreprises" class="block">
+          <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
+          entreprises
         </nuxt-link>
-        <nuxt-link to="/eauieauiauie" class="block">
-          (Ré)orientation et consultations
-        </nuxt-link>
-        <nuxt-link to="/about" class="block">
-          Contact
+        <nuxt-link to="/orientation-consultation" class="block">
+          <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation
+          et consultations
         </nuxt-link>
       </div>
     </div>
 
     <div id="menu" class="hidden md:flex fixed bg-gris text-cyan w-screen">
       <nuxt-link to="/" exact class="flex-auto">
-        Semaphore
+        <i class="fa fa-university" aria-hidden="true" /> Semaphore
       </nuxt-link>
-      <nuxt-link to="/qui-suis-je" class="flex-auto">
-        Qui suis-je
+      <nuxt-link to="/apropos" class="flex-auto">
+        <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
       </nuxt-link>
-      <nuxt-link to="/" class="flex-auto">
-        Formation et conférences
+      <nuxt-link to="/formation-conference" class="flex-auto">
+        <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
+        conférences
       </nuxt-link>
-      <nuxt-link to="/" class="flex-auto">
-        Services aux entreprises
+      <nuxt-link to="/services-entreprises" class="flex-auto">
+        <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
+        entreprises
       </nuxt-link>
-      <nuxt-link to="/" class="flex-auto">
-        (Ré)orientation et consultations
+      <nuxt-link to="/orientation-consultation" class="flex-auto">
+        <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation et
+        consultations
       </nuxt-link>
-      <nuxt-link to="/about" class="flex-auto">
-        Contact
+      <nuxt-link to="/#actualite">
+        <i class="fa fa-calendar" aria-hidden="true" />
       </nuxt-link>
     </div>
   </nav>
@@ -79,7 +86,7 @@ export default {
 a {
   margin-right: 20px;
   font-size: 14px;
-  color: #999;
+  @apply text-bleu;
   text-decoration: none;
   text-transform: uppercase;
   padding-top: 2px;
@@ -92,12 +99,13 @@ a {
   cursor: pointer;
 }
 a:hover {
-  color: rgb(236, 236, 236);
+  @apply text-gris_clair;
 }
 a.nuxt-link-active {
   color: rgb(236, 236, 236);
-  border-top: 1px solid rgb(236, 236, 236) 3;
-  border-bottom: 1px solid rgb(236, 236, 236);
+  border-bottom: 5px solid;
+  border-top: 0;
+  @apply border-vert;
   font-weight: 600;
 }
 </style>

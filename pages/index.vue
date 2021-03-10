@@ -1,52 +1,58 @@
 <template>
-  <div class="container p-0">
-    <div class="w-screen">
-      <TheNavBar />
+  <div class="container p-0 flex-col">
+    <div class="w-screen flex-auto h-full">
       <img
         class="w-screen"
         src="/img/writing_aaronBurden.jpg"
         alt="writing with a fountain pen"
       >
-      <h1 class="title md:text-6x1">
+      <h1 class="title md:text-4x1">
         Semaphore
       </h1>
-      <div class="flex flex-col md:flex-row justify-evenly items-center md:items-start">
-        <div class="w-10/12 md:w-1/3">
-          <h2>Actualités</h2>
-          <v-card
-            v-for="New of news.slice(0, 5)"
-            :key="New.slug"
-            class="mx-auto my-3"
-          >
-            <v-card-text>
-              <div>{{ New.title }}</div>
-              <p class="display-1 text-vert">
-                {{ New.date }}
-              </p>
-              <div class="text--primary">
-                {{ New.description }}
-              </div>
-            </v-card-text>
-            <v-card-actions>
-              <v-btn class=" m-auto">
-                <NuxtLink :to="New.slug" class="text-orange">
-                  Plus d'info
-                </NuxtLink>
-              </v-btn>
-            </v-card-actions>
-          </v-card>
-        </div>
+
+      <div class="flex mx-2 md:mx-8">
+        <nuxt-link class="w-5/12" to="/consultation">
+          <img src="img/undraw/undraw_hire_te5y.min.svg" alt="" sizes="" srcset="">
+        </nuxt-link>
+        <img src="img/undraw/undraw_knowledge_g5gf.min.svg" alt="" sizes="" srcset="" class="w-5/12">
+        <img src="img/undraw/undraw_light_the_fire_gt58.min.svg" alt="" sizes="" srcset="" class="w-5/12">
+        <img src="img/undraw/undraw_options_2fvi.min.svg" alt="" sizes="" srcset="" class="w-5/12">
+      </div>
+      <h2 id="actualite">
+        Actualités
+      </h2>
+      <div
+        class="flex z-0 flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8"
+      >
+        <v-card
+          v-for="New of news.slice(0, 5)"
+          :key="New.slug"
+          class="my-3"
+        >
+          <v-card-text>
+            <div>{{ New.title }}</div>
+            <p class="display-1 text-vert">
+              {{ New.date }}
+            </p>
+            <div class="text--primary">
+              {{ New.description }}
+            </div>
+          </v-card-text>
+          <v-card-actions>
+            <v-btn class="m-auto">
+              <NuxtLink :to="New.slug" class="text-orange">
+                Plus d'info
+              </NuxtLink>
+            </v-btn>
+          </v-card-actions>
+        </v-card>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import TheNavBar from '@/components/TheNavBar'
 export default {
-  components: {
-    TheNavBar
-  },
   async asyncData ({ $content }) {
     const news = await $content('actu').fetch()
     return {
@@ -85,7 +91,6 @@ export default {
   display: block;
   font-weight: 800;
   color: #35495e;
-
 }
 
 @media (min-width: 860px) {
