@@ -53,6 +53,13 @@ h3 {
 a {
   @apply text-vert_sombre;
 }
+
+p a {
+    @apply border-b-2;
+  @apply border-vert_sombre ;
+  @apply border-opacity-25;
+}
+
 a:hover {
   @apply text-opacity-50;
 }

@@ -5,8 +5,8 @@
         class="w-screen"
         src="/img/writing_aaronBurden.webp"
         alt="writing with a fountain pen"
-        srcset="writing_aaronBurden_lg.webp 1024w, writing_aaronBurden_md.webp 640w, writing_aaronBurden_sm.webp 320w"
-      />
+        srcset="/img/writing_aaronBurden_lg.webp 1024w, /img/writing_aaronBurden_md.webp 640w, /img/writing_aaronBurden_sm.webp 320w"
+      >
       <h1 class="md:text-6xl mb-6 text-vert_sombre text-center">
         Semaphore
       </h1>

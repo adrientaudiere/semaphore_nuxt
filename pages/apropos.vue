@@ -3,9 +3,6 @@
     <div class="w-screen h-full">
       <div class="my-12 text-justify px-4 max-w-sm md:max-w-2xl m-auto">
         <h1>{{ page.title }}</h1>
-        <h3 class="text-2xl font-bold">
-          {{ page.description }}
-        </h3>
         <nuxt-content :document="page" />
       </div>
     </div>

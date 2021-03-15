@@ -2,7 +2,6 @@
 title: Formations et conférences
 ---
 
-
 ## Atelier de découverte : 
 ### Atelier de découverte de la morphopsychologie (3 heures)
 
@@ -34,22 +33,31 @@ Grandes, petites, appuyées, légères, compactes, aérées, simples, sophistiqu
 La morphopsychologie est une méthode d’observation du visage et de la silhouette créée par le Dr Louis CORMAN, qui permet d’accéder aux dispositions psychologiques et au type de comportement d’une personne. Suivant les lois d’un code biologique universel, la morphopsychologie étudie les liens existant entre les formes du visage et la personnalité d’un individu.
 
 Pour en savoir plus, rendez-vous sur le site du [G.E.R.M.](http://morphopsy.com/index.php) (Groupe d’Etudes et de Recherches Morphobiologiques)
-Quels débouchés ?
 
-    Les métiers des ressources humaines : bilan de compétences, mobilité interne, orientation professionnelle, orientation scolaire
-    Les métiers de conseil : développement personnel, coaching, relooking
-    Les métiers de communication : publicité, marketing
-    Les métiers de l’enseignement et de l’éducation : professeurs des écoles, enseignants, éducateurs
-    Les métiers de l’accompagnement et prise en charge : psychologie du travail, psychothérapie, relation d'aide
-    Les métiers de la santé : médecine, orthophonie, ostéopathie, chirurgie esthétique
-    Les métiers de commerce : négociations, transactions commerciales
-    Les métiers d'investigation : profiling
+***Quels débouchés ?***
+
+- Les métiers des ressources humaines : bilan de compétences, mobilité interne, orientation professionnelle, orientation scolaire
+- Les métiers de conseil : développement personnel, coaching, relooking
+- Les métiers de communication : publicité, marketing
+- Les métiers de l’enseignement et de l’éducation : professeurs des écoles, enseignants, éducateurs
+- Les métiers de l’accompagnement et prise en charge : psychologie du travail, psychothérapie, relation d'aide
+- Les métiers de la santé : médecine, orthophonie, ostéopathie, chirurgie esthétique
+- Les métiers de commerce : négociations, transactions commerciales
+- Les métiers d'investigation : profiling
 
 Pour connaître les conditions et modalités de prise en charge, nous consulter.
 
 ### Formation à la Graphologie
 
-XXXXXXXXXXXXXXXXXXXXX
+Basée sur l'observation de l'écriture, la graphologie est une science humaine. Elle est fondée sur l'expressivité du geste, sur le symbolisme des formes et celui de l'espace.
+
+Le travail du graphologue s'appuie sur une technique d'observation rigoureuse de l'écriture. Le passage de l'observation à l'interprétation se fait par raisonnements analogiques, non en interprétant de façon directe et simplificatrice le geste mais en l'appréhendant dans sa globalité. Depuis 25 ans, des graphologues de la région nantaise, diplômés de la SFDG et pour certains du GGCF (Groupement des Graphologues Conseils de France), exerçant la graphologie à titre professionnel, se sont réunis au sein de l’A.G.B.P.L. (Association de Graphologie de Bretagne et des Pays de la Loire).
+
+C’est l’AGBPL qui dispense la formation et prépare ceux qui le souhaitent à l’examen de la SFDG (Société Française De Graphologie) qui a lieu à Paris tous les ans. Ce diplôme vous permet d'exercer le métier de graphologue dans des secteurs d'activité aussi variés que le conseil en Ressources Humaines, le recrutement, l'orientation scolaire et professionnelle. Il constitue une étape nécessaire vers la graphothérapie ou l'expertise en écriture.
+
+Cette formation se déroule à Nantes sur 18 mois consécutifs, à raison de 29 cours de 6 heures, un vendredi par mois, en dehors des vacances scolaires, sous la forme de 2 modules indépendants. Les groupes sont constitués d'une dizaine de participants maximum. Cette formule permet de travailler de manière interactive sur des documents originaux.
+
+Pour connaître nos tarifs et conditions de prise en charge, nous consulter.
 
 ## Conférences
 
