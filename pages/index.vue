@@ -1,11 +1,11 @@
 <template>
   <div class="container p-0 flex-col">
     <div class="w-screen flex-auto h-full">
-      <nuxt-img
+      <img
         class="w-screen"
         src="/img/writing_aaronBurden.webp"
         alt="writing with a fountain pen"
-        sizes="sm:100vw md:100vw lg:100vw"
+        srcset="writing_aaronBurden_lg.webp 1024w, writing_aaronBurden_md.webp 640w, writing_aaronBurden_sm.webp 320w"
       />
       <h1 class="md:text-6xl mb-6 text-vert_sombre text-center">
         Semaphore
