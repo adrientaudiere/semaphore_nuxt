@@ -1,6 +1,12 @@
 // tailwind.config.js
 module.exports = {
-  purge: [],
+  purge: [
+    './components/**/*.{vue,js}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './plugins/**/*.{js,ts}',
+    './nuxt.config.{js,ts}'
+  ],
   darkMode: 'class', // or 'media' or 'class'
   theme: {
     fontFamily: {
@@ -15,7 +21,8 @@ module.exports = {
       vert: '#9B8F00',
       rouge: '#d72323',
       gris_clair: '#aaad9b',
-      violet: '#663F46'
+      violet: '#663F46',
+      vert_sombre: '#5a5300'
     }
   }
 }

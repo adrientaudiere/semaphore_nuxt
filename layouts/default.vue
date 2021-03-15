@@ -51,7 +51,7 @@ h3 {
 }
 
 a {
-  @apply text-lime-700;
+  @apply text-vert_sombre;
 }
 a:hover {
   @apply text-opacity-50;

@@ -1,37 +1,38 @@
 <template>
   <div class="container p-0 flex-col">
     <div class="w-screen flex-auto h-full">
-      <img
+      <nuxt-img
         class="w-screen"
         src="/img/writing_aaronBurden.webp"
         alt="writing with a fountain pen"
-      >
-      <h1 class="md:text-6xl mb-6 text-vert text-center">
+        sizes="sm:100vw md:100vw lg:100vw"
+      />
+      <h1 class="md:text-6xl mb-6 text-vert_sombre text-center">
         Semaphore
       </h1>
 
       <div class="grid grid-cols-2 gap-y-8 md:grid-cols-4 mx-2 md:mx-8 mb-4 gap-x-8">
         <nuxt-link class="hover:opacity-75" to="/formation">
           <img src="img/undraw/undraw_knowledge_g5gf.min.svg" alt="" sizes="" srcset="">
-          <p class="md:text-xl text-vert font-bold font-serif">
+          <p class="md:text-xl text-vert_sombre font-bold font-serif">
             Formation - conférence
           </p>
         </nuxt-link>
         <nuxt-link class="hover:opacity-75" to="/entreprises">
           <img src="img/undraw/undraw_hire_te5y.min.svg" alt="" sizes="" srcset="">
-          <p class="md:text-xl text-vert font-bold font-serif">
+          <p class="md:text-xl text-vert_sombre font-bold font-serif">
             Services aux entreprises
           </p>
         </nuxt-link>
         <nuxt-link class="hover:opacity-75" to="/consultation">
           <img src="img/undraw/undraw_light_the_fire_gt58.min.svg" alt="" sizes="" srcset="">
-          <p class="md:text-xl text-vert font-bold font-serif">
+          <p class="md:text-xl text-vert_sombre font-bold font-serif">
             Réorientation
           </p>
         </nuxt-link>
         <nuxt-link class="hover:opacity-75" to="/consultation">
           <img src="img/undraw/undraw_options_2fvi.min.svg" alt="" sizes="" srcset="">
-          <p class="md:text-xl text-vert font-bold font-serif">
+          <p class="md:text-xl text-vert_sombre font-bold font-serif">
             Consultation
           </p>
         </nuxt-link>
@@ -63,7 +64,7 @@
           </v-card-text>
           <v-card-actions>
             <v-btn class="m-auto">
-              <NuxtLink :to="New.slug" class="text-vert">
+              <NuxtLink :to="New.slug" class="text-vert_sombre">
                 Plus d'info
               </NuxtLink>
             </v-btn>
