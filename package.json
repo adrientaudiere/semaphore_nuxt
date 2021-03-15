@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.11.1",
-    "@samturrell/nuxt-lighthouse-module": "^3.1.0",
     "core-js": "^3.8.2",
     "nuxt": "^2.14.12",
     "nuxt-compress": "^4.1.0"
@@ -22,7 +21,7 @@
     "@nuxt/image": "^0.4.1",
     "@nuxtjs/eslint-config": "^5.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
-    "@nuxtjs/imagemin": "^0.2.0",
+    "@nuxtjs/imagemin": "^1.0.1",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/tailwindcss": "^3.4.2",
     "@nuxtjs/vuetify": "^1.11.3",
