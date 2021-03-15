@@ -37,7 +37,7 @@
         </nuxt-link>
       </div>
 
-<hr class="text-violet mt-8 border-2 opacity-75" />
+      <hr class="text-violet mt-8 border-2 opacity-75">
 
       <h2 id="actualite" class="text-center text-violet">
         Actualités
@@ -51,7 +51,9 @@
           class="my-3"
         >
           <v-card-text>
-            <div class="text-violet font-bold font-serif">{{ New.title }}</div>
+            <div class="text-violet font-bold font-serif">
+              {{ New.title }}
+            </div>
             <p class="display-1 text-violet">
               {{ New.date }}
             </p>
@@ -83,8 +85,10 @@ export default {
   head () {
     return {
       script: [
-        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
-        rel:"preconnect" }
+        {
+          src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
+          rel: 'preconnect'
+        }
       ]
     }
   }

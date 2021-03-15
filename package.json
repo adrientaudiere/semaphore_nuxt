@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.11.1",
+    "@samturrell/nuxt-lighthouse-module": "^3.1.0",
     "core-js": "^3.8.2",
     "nuxt": "^2.14.12",
     "nuxt-compress": "^4.1.0"
