@@ -24,10 +24,10 @@
             Services aux entreprises
           </p>
         </nuxt-link>
-        <nuxt-link class="hover:opacity-75" to="/consultation">
+        <nuxt-link class="hover:opacity-75" to="/orientation">
           <img src="img/undraw/undraw_light_the_fire_gt58.min.svg" alt="" sizes="" srcset="">
           <p class="md:text-xl text-vert_sombre font-bold font-serif">
-            Réorientation
+            (Ré)orientation
           </p>
         </nuxt-link>
         <nuxt-link class="hover:opacity-75" to="/consultation">
@@ -51,24 +51,24 @@
           :key="New.slug"
           class="my-3"
         >
-          <v-card-text>
-            <div class="text-violet font-bold font-serif">
-              {{ New.title }}
-            </div>
-            <p class="display-1 text-violet">
-              {{ New.date }}
-            </p>
-            <div class="text--primary font-sans md:max-w-sm">
-              {{ New.description }}
-            </div>
-          </v-card-text>
-          <v-card-actions>
-            <v-btn class="m-auto">
-              <NuxtLink :to="New.slug" class="text-vert_sombre">
+          <NuxtLink :to="New.slug" class="text-vert_sombre">
+            <v-card-text>
+              <div class="text-violet font-bold font-serif">
+                {{ New.title }}
+              </div>
+              <p class="display-1 text-violet">
+                {{ New.date }}
+              </p>
+              <div class="text--primary font-sans md:max-w-sm">
+                {{ New.description }}
+              </div>
+            </v-card-text>
+            <v-card-actions>
+              <v-btn class="m-auto">
                 Plus d'info
-              </NuxtLink>
-            </v-btn>
-          </v-card-actions>
+              </v-btn>
+            </v-card-actions>
+          </NuxtLink>
         </v-card>
       </div>
     </div>

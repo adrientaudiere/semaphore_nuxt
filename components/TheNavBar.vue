@@ -58,12 +58,13 @@
         conférences
       </nuxt-link>
       <nuxt-link to="/entreprises" class="flex-auto">
-        <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
-        entreprises
+        <i class="fa fa-suitcase" aria-hidden="true" /> Entreprises
+      </nuxt-link>
+      <nuxt-link to="/orientation" class="flex-auto">
+        <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation
       </nuxt-link>
       <nuxt-link to="/consultation" class="flex-auto">
-        <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation et
-        consultations
+        <i class="fa fa-group" aria-hidden="true" /> Consultations
       </nuxt-link>
       <nuxt-link to="/#actualite">
         <i class="fa fa-calendar" aria-hidden="true" />
@@ -85,10 +86,9 @@ export default {
 <style scoped>
 a {
   margin-right: 20px;
-  font-size: 14px;
+  font-size: 18px;
   @apply text-bleu;
   text-decoration: none;
-  text-transform: uppercase;
   padding-top: 2px;
   padding-bottom: 2px;
   border-top: 1px solid transparent;
@@ -107,5 +107,13 @@ a.nuxt-link-active {
   border-top: 0;
   @apply border-vert;
   font-weight: 600;
+}
+@media (max-width: 1000px){
+  a {
+    font-size: 14px;
+  }
+  i {
+    display: block;
+  }
 }
 </style>

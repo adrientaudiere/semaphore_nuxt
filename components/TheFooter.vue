@@ -4,18 +4,21 @@
       <li>
         <a href="mailto:laurence.crespel1@gmail.com">
           <i class="fa fa-envelope-square align-middle" aria-hidden="true" />
+          <span class="hidden md:inline">laurence.crespel1@gmail.com</span>
         </a>
-        <span class="hidden md:inline">laurence.crespel1@gmail.com</span>
       </li>
       <li>
-        <a href="https://osm.org/go/eq2rZGS?m=&node=1618128435">
-          <i class="fa fa-map-marker align-middle" aria-hidden="true" /> </a><span
-          class="hidden md:inline"
-        >1 avenue des Coudriers - 44120 VERTOU</span>
+        <a href="https://osm.org/go/eq2rZGS?m=&node=1618128435" target="_blank">
+          <i class="fa fa-map-marker align-middle" aria-hidden="true" /> <span
+            class="hidden md:inline"
+          >1 avenue des Coudriers - 44120 VERTOU</span>
+        </a>
       </li>
       <li>
         <a href="tel:0662643739">
-          <i class="fa fa-phone align-middle" aria-hidden="true" /> </a><span class="hidden md:inline">06 62 64 37 39 </span>
+          <i class="fa fa-phone align-middle" aria-hidden="true" />
+          <span class="hidden md:inline">06 62 64 37 39 </span>
+        </a>
       </li>
       <li>
         <a href="https://www.linkedin.com/in/laurence-crespel-taudiere/">
@@ -28,7 +31,7 @@
       </li>
       <li>
         <p class="hidden md:inline text-sm align-middle">
-          Conception <a href="https://adrientaudiere.com">IdEst</a>
+          Conception: <a class="font-bold" href="https://adrientaudiere.com">IdEst</a>
         </p>
       </li>
     </div>
@@ -53,6 +56,9 @@ div {
   align-items: center;
 }
 a {
-  @apply text-orange;
+  @apply text-violet;
+}
+a:hover {
+  opacity: 50%;
 }
 </style>
