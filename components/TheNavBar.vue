@@ -26,48 +26,63 @@
           @click="isHidden = true"
         >
         <nuxt-link to="/" exact class="block">
-          <i class="fa fa-university" aria-hidden="true" /> Semaphore
+          <fas icon="university" aria-hidden="true" />
+          Semaphore
         </nuxt-link>
         <nuxt-link to="/apropos" class="block">
-          <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
+          <fas icon="id-card" aria-hidden="true" />
+          Qui suis-je
         </nuxt-link>
         <nuxt-link to="/formation" class="block">
-          <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
-          conférences
+          <fas icon="chalkboard-teacher" aria-hidden="true" />
+          Formation et conférences
         </nuxt-link>
         <nuxt-link to="/entreprises" class="block">
-          <i class="fa fa-suitcase" aria-hidden="true" /> Services aux
-          entreprises
+          <fas icon="briefcase" aria-hidden="true" />
+          Entreprises
+        </nuxt-link>
+        <nuxt-link to="/orientation" class="block">
+          <fas icon="street-view" aria-hidden="true" />
+          Ré(orientation)
         </nuxt-link>
         <nuxt-link to="/consultation" class="block">
-          <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation
-          et consultations
+          <fas icon="users" aria-hidden="true" />
+          Consultations
+        </nuxt-link>
+        <nuxt-link to="/#actualite">
+          <fas icon="calendar-alt" aria-hidden="true" />
+          Actualités
         </nuxt-link>
       </div>
     </div>
 
     <div id="menu" class="hidden md:flex fixed bg-gris text-cyan w-screen">
       <nuxt-link to="/" exact class="flex-auto">
-        <i class="fa fa-university" aria-hidden="true" /> Semaphore
+        <fas icon="university" aria-hidden="true" />
+        Semaphore
       </nuxt-link>
       <nuxt-link to="/apropos" class="flex-auto">
-        <i class="fa fa-id-card-o" aria-hidden="true" /> Qui suis-je
+        <fas icon="id-card" aria-hidden="true" />
+        Qui suis-je
       </nuxt-link>
       <nuxt-link to="/formation" class="flex-auto">
-        <i class="fa fa-graduation-cap" aria-hidden="true" /> Formation et
-        conférences
+        <fas icon="chalkboard-teacher" aria-hidden="true" />
+        Formation et conférences
       </nuxt-link>
       <nuxt-link to="/entreprises" class="flex-auto">
-        <i class="fa fa-suitcase" aria-hidden="true" /> Entreprises
+        <fas icon="briefcase" aria-hidden="true" />
+        Entreprises
       </nuxt-link>
       <nuxt-link to="/orientation" class="flex-auto">
-        <i class="fa fa-street-view" aria-hidden="true" /> (Ré)orientation
+        <fas icon="street-view" aria-hidden="true" />
+        Ré(orientation)
       </nuxt-link>
       <nuxt-link to="/consultation" class="flex-auto">
-        <i class="fa fa-group" aria-hidden="true" /> Consultations
+        <fas icon="users" aria-hidden="true" />
+        Consultations
       </nuxt-link>
       <nuxt-link to="/#actualite">
-        <i class="fa fa-calendar" aria-hidden="true" />
+        <fas icon="calendar-alt" aria-hidden="true" />
       </nuxt-link>
     </div>
   </nav>
@@ -97,9 +112,11 @@ a {
   font-weight: 400;
   line-height: normal;
   cursor: pointer;
+  border-left: solid 2px rgba(236, 236, 236, 0.174);
 }
 a:hover {
-  @apply text-gris_clair;
+  color: white;
+  @apply bg-vert_sombre
 }
 a.nuxt-link-active {
   color: rgb(236, 236, 236);
@@ -108,12 +125,26 @@ a.nuxt-link-active {
   @apply border-vert;
   font-weight: 600;
 }
-@media (max-width: 1000px){
+
+@media (max-width: 1150px) {
   a {
     font-size: 14px;
   }
-  i {
-    display: block;
+}
+
+@media (max-width: 950px) {
+  a {
+    font-size: 12px;
   }
+}
+@media (max-width: 800px) {
+  a {
+    border-left-color: transparent ;
+    margin-bottom: 2px;
+  }
+}
+.svg-inline--fa {
+  @apply mx-4;
+  @apply align-middle;
 }
 </style>

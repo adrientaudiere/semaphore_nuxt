@@ -20,8 +20,8 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '@/assets/css/main.sass',
-    '@/assets/Fork-Awesome-1.1.7/css/fork-awesome.min.css'
+    '@/assets/css/main.sass'
+    // '@/assets/Fork-Awesome-1.1.7/css/fork-awesome.min.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -47,7 +47,21 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    'nuxt-compress'
+    'nuxt-compress',
+    ['nuxt-fontawesome', {
+      component: 'fas',
+      imports: [
+        // import whole set
+        {
+          set: '@fortawesome/free-solid-svg-icons',
+          icons: ['fas']
+        },
+        {
+          set: '@fortawesome/free-brands-svg-icons',
+          icons: ['fab']
+        }
+      ]
+    }]
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

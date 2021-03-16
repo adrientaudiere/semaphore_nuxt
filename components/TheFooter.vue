@@ -1,38 +1,45 @@
 <template>
   <footer>
-    <div class="w-screen bg-bleu flex justify-around py-2 text-sm">
+    <div class="w-screen bg-bleu flex justify-around py-2 text-base">
       <li>
         <a href="mailto:laurence.crespel1@gmail.com">
-          <i class="fa fa-envelope-square align-middle" aria-hidden="true" />
+          <fas icon="envelope-square" aria-hidden="true" class="text-3xl" />
           <span class="hidden md:inline">laurence.crespel1@gmail.com</span>
         </a>
       </li>
       <li>
         <a href="https://osm.org/go/eq2rZGS?m=&node=1618128435" target="_blank">
-          <i class="fa fa-map-marker align-middle" aria-hidden="true" /> <span
+          <fas icon="map-marked-alt" aria-hidden="true" class="text-3xl" /> <span
             class="hidden md:inline"
           >1 avenue des Coudriers - 44120 VERTOU</span>
         </a>
       </li>
       <li>
         <a href="tel:0662643739">
-          <i class="fa fa-phone align-middle" aria-hidden="true" />
+          <fas icon="phone-square" aria-hidden="true" class="text-3xl" />
           <span class="hidden md:inline">06 62 64 37 39 </span>
         </a>
       </li>
       <li>
         <a href="https://www.linkedin.com/in/laurence-crespel-taudiere/">
-          <i class="fa fa-linkedin-square" /></a>
+          <fas :icon="['fab', 'linkedin']" aria-hidden="true" class="text-3xl" />
+        </a>
       </li>
       <li>
         <nuxt-link to="/#actualite">
-          <i class="fa fa-calendar" aria-hidden="true" />
+          <fas icon="calendar-alt" aria-hidden="true" class="text-3xl" />
         </nuxt-link>
       </li>
       <li>
-        <p class="hidden md:inline text-sm align-middle">
-          Conception: <a class="font-bold" href="https://adrientaudiere.com">IdEst</a>
-        </p>
+        <span class="hidden md:inline text-base align-bottom">
+          <a href="https://adrientaudiere.com">
+            <fas icon="tools" />
+            Conception: IdEst
+          </a>
+        </span>
+        <span class="md:hidden mr-4">
+          <a href="https://adrientaudiere.com"> <fas icon="tools" class="align-middle text-base" /></a>
+        </span>
       </li>
     </div>
   </footer>
@@ -46,10 +53,10 @@ export default {}
 li {
   list-style: none;
 }
-i {
-  @apply text-4xl;
+.svg-inline--fa {
   @apply text-violet;
   @apply mx-4;
+  @apply align-middle;
 }
 div {
   @apply text-violet;
@@ -57,6 +64,7 @@ div {
 }
 a {
   @apply text-violet;
+  @apply border-b-0;
 }
 a:hover {
   opacity: 50%;

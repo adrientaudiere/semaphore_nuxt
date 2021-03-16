@@ -44,7 +44,7 @@
         Actualités
       </h2>
       <div
-        class="flex z-0 flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
+        class="flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
       >
         <v-card
           v-for="New of news.slice(0, 5)"
