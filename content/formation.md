@@ -1,5 +1,5 @@
 ---
-title: Formations et conférences
+title: Formations et ateliers
 ---
 ## Atelier de découverte :
 
