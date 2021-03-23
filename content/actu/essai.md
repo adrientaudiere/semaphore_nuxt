@@ -5,7 +5,7 @@ description: "Conférence en ligne : Notre visage parle, écoutons-le!"
 ---
 Rdv le jeudi 15 avril de 18h30 à 20h pour une conférence en ligne.
 
-L'inscription, c'est par là :
+**L'inscription, c'est par là :** https://www.eventbrite.fr/e/billets-conference-notre-visage-parle-ecoutons-le-136809291273?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing 
 
 Au-delà de la sympathie ou de l'antipathie que nous inspire un visage, hors de tout critère esthétique, la morphopsychologie est une technique de lecture du visage qui permet d'avoir accès à la singularité de chacun.
 
