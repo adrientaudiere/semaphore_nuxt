@@ -11,4 +11,4 @@ Au-delà de la sympathie ou de l'antipathie que nous inspire un visage, hors de 
 
 De quoi ai-je réellement besoin? Quels dont mes talents innés? Qu'est ce qu'on attend de moi et qu'est ce que je veux? Comment me sentir plus à ma place, acquérir davantage de légitimité, augmenter ma confiance en moi, améliorer ma communication?
 
-Que de questions auxquelles je serai heureuse de répondre à cette occasion !
+Que de questions auxquelles je serai heureuse de répondre à l'occasion de cette rencontre !
