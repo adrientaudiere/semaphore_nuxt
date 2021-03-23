@@ -25,6 +25,6 @@ collections:
       preview: false
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
+      - { label: 'Date de publication', name: 'date', widget: 'string'}
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Texte', name: 'body', widget: 'markdown' }

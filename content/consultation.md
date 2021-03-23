@@ -23,12 +23,16 @@ Identifier ses spécificités, ses ressources, ses leviers de performance, prend
 
 ### Témoignages :
 
-> <i class="fa fa-quote-left" aria-hidden="true"></i> J’aimerais changer de travail mais je ne sais pas du tout vers quelle direction m’orienter. Cette consultation me permettra d’y voir plus clair <i class="fa fa-quote-right" aria-hidden="true"></i>.  **Sylvain**, *42 ans*
->
-> <i class="fa fa-quote-left" aria-hidden="true"></i>  A la veille d’un choix de vie j’aimerais un éclairage pour m’aider à réfléchir. J’aimerais mieux me connaître, savoir mes points d’appui, faire la part des choses entre ce qui est vraiment important pour moi et ce que je fais pour faire plaisir à mon entourage.  <i class="fa fa-quote-right" aria-hidden="true"></i> **Laure**, *38 ans*
->
-> <i class="fa fa-quote-left" aria-hidden="true"></i> Je suis sur le point de créer mon entreprise et je voudrais une confirmation sur mes points forts et la manière dont je dois m’entourer pour compenser mes fragilités et identifier mes axes de progrès.  <i class="fa fa-quote-right" aria-hidden="true"></i> *Marc, 34 ans*
->
-> <i class="fa fa-quote-left" aria-hidden="true"></i>  J’ai démarré des études supérieures qui ne me conviennent pas. Etudiante, je n’ai pas les moyens de faire un bilan de compétences mais j’aimerais être éclairée sur des voies qui me conviendraient.  <i class="fa fa-quote-right" aria-hidden="true"></i> **Lisa**, *21 ans*
->
-> <i class="fa fa-quote-left" aria-hidden="true"></i>  Depuis des années, j'ai envie de me faire refaire le nez mais j'hésite. Une consultation de morphopsychologie m'accompagnera concrètement dans ma réflexion. Pourquoi je n'aime pas mon nez? Que dit-il de moi? Le modifier va-t-il changer quelque chose à ma personnalité?"  <i class="fa fa-quote-right" aria-hidden="true"></i> **Claire**, *28 ans*
+<blockquote>
+
+« J’aimerais changer de travail mais je ne sais pas du tout vers quelle direction m’orienter. Cette consultation me permettra d’y voir plus clair. »  **Sylvain**, *42 ans*
+
+«  A la veille d’un choix de vie j’aimerais un éclairage pour m’aider à réfléchir. J’aimerais mieux me connaître, savoir mes points d’appui, faire la part des choses entre ce qui est vraiment important pour moi et ce que je fais pour faire plaisir à mon entourage. » **Laure**, *38 ans*
+
+« Je suis sur le point de créer mon entreprise et je voudrais une confirmation sur mes points forts et la manière dont je dois m’entourer pour compenser mes fragilités et identifier mes axes de progrès. » **Marc**, *34 ans*
+
+«  J’ai démarré des études supérieures qui ne me conviennent pas. Etudiante, je n’ai pas les moyens de faire un bilan de compétences mais j’aimerais être éclairée sur des voies qui me conviendraient.  » **Lisa**, *21 ans*
+
+«  Depuis des années, j'ai envie de me faire refaire le nez mais j'hésite. Une consultation de morphopsychologie m'accompagnera concrètement dans ma réflexion. Pourquoi je n'aime pas mon nez? Que dit-il de moi? Le modifier va-t-il changer quelque chose à ma personnalité?"   » **Claire**, *28 ans*
+
+</blockquote>

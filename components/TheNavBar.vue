@@ -56,7 +56,7 @@
       </div>
     </div>
 
-    <div id="menu" class="hidden md:flex fixed bg-gris text-cyan w-screen">
+    <div id="menu" class="hidden md:flex fixed bg-gris text-cyan w-screen z-50">
       <nuxt-link to="/" exact class="flex-auto">
         <fas icon="university" aria-hidden="true" />
         Semaphore

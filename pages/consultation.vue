@@ -40,7 +40,7 @@ blockquote {
 }
 
 blockquote p {
-  padding-top: 0px;
-  text-indent: 0%;
+  padding-top: 8px;
+  text-indent: 5%;
 }
 </style>

@@ -3,6 +3,9 @@
     <div class="w-screen h-full ">
       <div class="my-12 text-justify px-4 max-w-sm md:max-w-2xl m-auto">
         <h2>{{ actu.title }}</h2>
+        <p class="text-gris italic">
+          Écrit le {{ actu.date }}
+        </p>
         <nuxt-content :document="actu" />
       </div>
     </div>
@@ -25,3 +28,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+footer{
+   position:absolute;
+   bottom: 0%;
+}
+</style>
