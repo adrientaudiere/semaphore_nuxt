@@ -1,8 +1,7 @@
 ---
 title: FORMATION DE MORPHOPSYCHOLOGIE
 date: 3, 4, 5, 18 et 19 juin 2021
-description: La morphopsychologie, un outil pour identifier les talents et
-  renforcer les aptitudes
+description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : PARIS XIV°
 
