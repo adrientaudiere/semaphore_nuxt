@@ -1,6 +1,6 @@
 ---
-title: FORMATION DE MORPHOPSYCHOLOGIE A NANTES
-date: 3, 4, 5, 31 mai et 1° juin 2021
+title: "FORMATION DE MORPHOPSYCHOLOGIE "
+date: 3, 4, 5, 31 mai et 1° juin 2021 à Nantes
 description: La morphopsychologie, un outil pour identifier les talents et
   renforcer les aptitudes
 ---
