@@ -1,5 +1,5 @@
 ---
-title: Un exemple d'actualité assez long long long
+title: FORMATION DE MORPHOPSYCHOLOGIE EN PRESENTIEL
 date: 21 Janvier 2021
 description: La courte description
 ---
