@@ -1,5 +1,5 @@
 ---
-title: Bilans d'orientation / de compétences
+title: Bilans d'orientation - de compétences
 ---
 Dès le lycée et tout au long de la vie professionnelle, des questions d’orientation, réorientation, reconversion se posent. Le bilan d’orientation à destination des plus jeunes, ou le bilan professionnel en cours de carrière sont des moyens mis à votre disposition afin d'orienter ses choix de formation et de métier.
 
