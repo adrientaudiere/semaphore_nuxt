@@ -1,7 +1,7 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
 date: "7, 8 et 9 Juin 2021  "
-description: La morphopsychologie au service du coaching
+description: La MP au service du coaching
 ---
 LIEU : Nantes
 
