@@ -1,13 +1,14 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: "7, 8 et 9 Juin 2021 A NANTES "
+date: "7, 8 et 9 Juin 2021  "
 description: La morphopsychologie au service du coaching
 ---
+LIEU : Nantes
+
 PUBLIC  :
 Tout coach et/ou consultant intéressé par un outil direct et immédiat ne nécessitant aucun accessoire, permettant
 d’identifier les aptitudes, talents et dispositions naturelles, comprendre certains fonctionnements pour éclairer et
 conseiller les personnes qu’il accompagne.
-
 
 OBJECTIFS :
 
