@@ -1,5 +1,5 @@
 ---
-title: Conférence
+title: CONFERENCE
 date: 15/04/2021 à 18h30
 description: "Conférence en ligne : Notre visage parle, écoutons-le!"
 ---
