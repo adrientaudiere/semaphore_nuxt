@@ -1,6 +1,6 @@
 ---
 title: Conférence
-date: 2021-04-14T22:00:00.000Z
+date: 2021-04-15T16:30:00.000Z
 description: "Conférence en ligne : Notre visage parle, écoutons-le!"
 ---
 En partenariat avec FAROS INSTITUT, rdv le jeudi 15 avril de 18h30 à 20h pour une conférence en ligne sur le thème de la morphopsychologie.
