@@ -3,7 +3,7 @@ title: Orientation scolaire et professionnelle
 ---
 Dès le lycée et tout au long de la vie professionnelle, des questions d’orientation, réorientation, reconversion se posent. Le bilan d’orientation à destination des plus jeunes, ou le bilan professionnel en cours de carrière sont des moyens mis à votre disposition afin d'orienter ses choix de formation et de métier.
 
-## <i class="fa fa-university" aria-hidden="true"></i> Bilan d’orientation :
+# <i class="fa fa-university" aria-hidden="true"></i> Bilan d’orientation :
 
 Beaucoup de jeunes lycéens, préoccupés par leur avenir professionnel, sont un peu démunis par rapport au choix de leurs futures études. Pour une très grande majorité d’entre eux, l’inquiétude c’est de trouver l’adéquation entre leurs aptitudes, leurs intérêts, leurs goûts et le choix professionnel. La plupart ne disposent que d'une évaluation scolaire pour estimer - ou sous-estimer - leurs ressources. Une expertise plus approfondie, adossée à des tests spécifiques reconnus, permet au jeune de découvrir les dispositions, motivations et atouts qui constituent sa singularité.
 
