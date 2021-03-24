@@ -9,11 +9,7 @@ PUBLIC :
 Tout consultant intéressé par un outil direct et immédiat ne nécessitant aucun accessoire, permettant
 d’identifier les aptitudes, comprendre un certain nombre de fonctionnements pour conseiller les personnes
 qu’il accompagne (bilans d’orientation, bilans de compétences, coaching, out-placement, partenariat,
-réinsertion et reclassement professionnels, rééducation…)
-A l’heure où l’on communique de plus en plus sur et avec son image, notamment par l’intermédiaire des
-réseaux sociaux, cet outil permet d’avoir accès aux dispositions, aux atouts et aux freins d’une personne grâce
-à la lecture de son visage, reflet de sa personnalité.
-
+réinsertion et reclassement professionnels,…)
 
 
 OBJECTIF :
@@ -23,8 +19,6 @@ OBJECTIF :
 * Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses
   interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
 * Acquérir un outil pour affiner sa stratégie de communication.
-
-
 
 BENEFICES POUR LES PARTICIPANTS :
 
@@ -39,7 +33,5 @@ BENEFICES POUR LES PARTICIPANTS :
   cultiver des dispositions « en friche ». Permettre à certaines aptitudes masquées d’émerger.
 * Éclairer une démarche d’orientation à destination d’adolescents parfois trop jeunes pour se prêter à
   certains tests.
-
-
 
 PROGRAMME SUR DEMANDE
