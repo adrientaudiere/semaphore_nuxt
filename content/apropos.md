@@ -19,7 +19,7 @@ Graphologue-Conseil (diplômée de la Société Française de Graphologie et du 
 
 - [Recrutement, mobilité interne, partenariat](/content/entreprises.md)
 - [Bilans d’orientation et professionnels](/content/orientation.md)
-- [Bilans de compétence](/content/orientation.md)
+- [Bilans de compétence](/content/bilan.md)
 - [Consultations de morphopsychologie et graphologie](/content/consultation.md)
 - [Formations de morphopsychologie et graphologie - Ateliers découverte](/content/formation.md)
 - [Conférences](https://semaphore.fr/formation#conf%C3%A9rences.md)

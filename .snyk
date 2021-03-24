@@ -1,0 +1,48 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JS-GLOBPARENT-1016905:
+    - nuxt > @nuxt/webpack > webpack > watchpack > watchpack-chokidar2 > chokidar > glob-parent:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/builder > @nuxt/webpack > webpack > watchpack > watchpack-chokidar2 > chokidar > glob-parent:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+  SNYK-JS-ISSVG-1085627:
+    - nuxt > @nuxt/webpack > cssnano > cssnano-preset-default > postcss-svgo > is-svg:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/webpack > optimize-css-assets-webpack-plugin > cssnano > cssnano-preset-default > postcss-svgo > is-svg:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/builder > @nuxt/webpack > cssnano > cssnano-preset-default > postcss-svgo > is-svg:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/builder > @nuxt/webpack > optimize-css-assets-webpack-plugin > cssnano > cssnano-preset-default > postcss-svgo > is-svg:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+  SNYK-JS-LODASHTEMPLATE-1088054:
+    - nuxt > @nuxt/vue-renderer > vue-server-renderer > lodash.template:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/webpack > postcss-preset-env > postcss-initial > lodash.template:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/server > @nuxt/vue-renderer > vue-server-renderer > lodash.template:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/builder > @nuxt/webpack > postcss-preset-env > postcss-initial > lodash.template:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+    - nuxt > @nuxt/core > @nuxt/server > @nuxt/vue-renderer > vue-server-renderer > lodash.template:
+        reason: None given
+        expires: '2021-04-23T07:32:00.773Z'
+  SNYK-JS-SSRI-1085630:
+    - nuxt > @nuxt/webpack > webpack > terser-webpack-plugin > cacache > ssri:
+        reason: None given
+        expires: '2021-04-23T07:32:00.774Z'
+    - nuxt > @nuxt/builder > @nuxt/webpack > webpack > terser-webpack-plugin > cacache > ssri:
+        reason: None given
+        expires: '2021-04-23T07:32:00.774Z'
+patch: {}

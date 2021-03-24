@@ -1,7 +1,7 @@
 <template>
   <div class="container p-0 flex-col">
     <div class="w-screen flex-auto h-full">
-      <img
+      <!--  <img
         class="hidden md:block w-screen"
         src="/img/writing_aaronBurden.webp"
         alt="writing with a fountain pen"
@@ -20,8 +20,8 @@
           Actualités
         </a>
       </div>
-
-      <h1 class="md:text-6xl mb-6 text-vert_sombre text-center">
+ -->
+      <h1 class="md:text-6xl mb-6 mt-12 text-vert_sombre text-center">
         Semaphore
       </h1>
       <hr class="text-vert_sombre my-4 border-2 opacity-25">
