@@ -35,9 +35,7 @@ Remise commentée d'un dossier d'orientation personnalisé, qui constituera un s
 
 Enfin, une rencontre avec les parents permet d’échanger sur les voies professionnelles préconisées et les moyens à mettre en œuvre pour accompagner leur enfant dans ses recherches et ses choix.
 
-
-
-## <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan professionnel :
+# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan professionnel :
 
 Vous ne vous sentez pas ou plus à votre place dans votre métier ou vous êtes en recherche d’emploi.
 
