@@ -15,7 +15,7 @@ Identifier ses spécificités, ses ressources, ses leviers de performance, prend
 
 ### Où ?
 
-À Nantes, Paris, ou en visioconférence.
+À Nantes ou en visio via Zoom
 
 ### Le tarif ?
 
