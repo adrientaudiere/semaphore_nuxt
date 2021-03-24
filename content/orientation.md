@@ -71,3 +71,20 @@ Entretien de suivi en fonction des préconisations avancées lors de la seconde 
 Point sur la progression des différentes étapes recommandées, les recherches effectuées dans les directions identifiées ensemble, les enquêtes métiers menées, les secteurs visés, les professionnels rencontrés.
 
 Pour recevoir un devis gratuit, nous consulter.
+
+
+
+# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan de compétences :
+
+Un **bilan de compétences** permet de faire le point sur son parcours, sa personnalité, ses atouts et ses intérêts, dans l'objectif de faire émerger un projet professionnel motivant et réaliste, qui concilie ce que l'on est, ce que l'on aime, ce que l'on peut, et les exigences du marché du travail.
+
+Un bilan de compétences est individuel et dure 24 heures sur une durée d’environ 3 mois en fonction de la fréquence des rendez-vous.
+
+Il vise à :
+• Analyser votre parcours professionnel et personnel
+• Repérer vos talents, vos motivations, vos valeurs, vos besoins.
+• Définir un projet professionnel ou de formation en fonction de votre personnalité et de vos aspirations
+• Élaborer un plan d’actions pour atteindre vos nouveaux objectifs via une promotion, une formation ou la
+recherche d’un nouvel emploi.
+
+Eligible au CPF - Programme sur demande.
