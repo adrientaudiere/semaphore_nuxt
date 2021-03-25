@@ -32,7 +32,7 @@ Vous souhaitez ponctuellement vous adosser sur un éclairage complémentaire con
 - Le profil graphologique rédigé : le portrait du candidat et son adéquation au poste envisagé sont rédigés sur une page et demie.
 - L’étude graphologique approfondie : la prestation précédente est développée sur 3 pages. Les thèmes abordés sont plus nombreux et creusés.
 
-Pour recevoir un devis gratuit, nous  <a href="mailto:laurence.crespel1@gmail.com"> consulter</a>.
+Pour recevoir un devis gratuit, nous  <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
 <div class="my-8"> 
 
