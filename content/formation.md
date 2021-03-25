@@ -43,7 +43,7 @@ Pour en savoir plus, rendez-vous sur le site du [G.E.R.M.](http://morphopsy.com/
 * Les métiers de commerce : négociations, transactions commerciales
 * Les métiers d'investigation : profiling
 
-Pour connaître les conditions et modalités de prise en charge, nous consulter.
+Pour connaître les conditions et modalités de prise en charge, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
 ### Formation à la Graphologie
 
@@ -55,7 +55,7 @@ C’est l’AGBPL qui dispense la formation et prépare ceux qui le souhaitent �
 
 Cette formation se déroule à Nantes sur 18 mois consécutifs, à raison de 29 cours de 6 heures, un vendredi par mois, en dehors des vacances scolaires, sous la forme de 2 modules indépendants. Les groupes sont constitués d'une dizaine de participants maximum. Cette formule permet de travailler de manière interactive sur des documents originaux.
 
-Pour connaître nos tarifs et conditions de prise en charge, nous consulter.
+Pour connaître nos tarifs et conditions de prise en charge, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
 ## Conférences
 
@@ -70,4 +70,4 @@ Vous êtes à la recherche d’une idée originale pour l’organisation de votr
 * Un dîner conférence : présentation power point commentée suivie de brefs portraits morphopsychologiques des participants qui le souhaitent.
 * Un atelier d’initiation sur une ½ journée ou une journée
 * Une formule sur mesure adaptée à votre besoin.
-* Pour connaître nos tarifs et recevoir un devis gratuit, nous consulter.
+* Pour connaître nos tarifs et recevoir un devis gratuit, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.

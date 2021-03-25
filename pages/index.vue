@@ -22,7 +22,10 @@
       </div>
  -->
       <h1 class="md:text-6xl mb-6 mt-12 text-vert_sombre text-center">
-        Semaphore
+        <img src="img/logo.svg" class="w-16 inline" alt="">
+        Semaphore <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
+          <a href="mailto:semaphore@mailo.com" class="text-violet">Me contacter</a>
+        </button>
       </h1>
       <hr class="text-vert_sombre my-4 border-2 opacity-25">
       <div
@@ -104,7 +107,10 @@
         </v-card>
       </div>
       <div class="mb-6">
-        <nuxt-link to="/actualite" class="text-violet bg-bleu p-2 rounded-lg mb-4">
+        <nuxt-link
+          to="/actualite"
+          class="text-violet bg-bleu p-2 rounded-lg mb-4"
+        >
           Archives des actualités
         </nuxt-link>
       </div>
@@ -150,5 +156,8 @@ export default {
 }
 .links {
   padding-top: 15px;
+}
+button{
+  border-style: solid;
 }
 </style>

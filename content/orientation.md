@@ -70,7 +70,7 @@ Liste des métiers retenus - leurs conditions d’exercice sur le plan pratique,
 Entretien de suivi en fonction des préconisations avancées lors de la seconde rencontre. 
 Point sur la progression des différentes étapes recommandées, les recherches effectuées dans les directions identifiées ensemble, les enquêtes métiers menées, les secteurs visés, les professionnels rencontrés.
 
-Pour recevoir un devis gratuit, nous consulter.
+Pour recevoir un devis gratuit, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
 
 

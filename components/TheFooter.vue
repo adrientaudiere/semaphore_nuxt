@@ -2,9 +2,9 @@
   <footer>
     <div class="w-screen bg-bleu flex justify-around py-2 text-base">
       <li>
-        <a href="mailto:laurence.crespel1@gmail.com">
+        <a href="mailto:semaphore@mailo.com">
           <fas icon="envelope-square" aria-hidden="true" class="text-3xl" />
-          <span class="hidden md:inline">laurence.crespel1@gmail.com</span>
+          <span class="hidden md:inline">semaphore@mailo.com</span>
         </a>
       </li>
       <li>

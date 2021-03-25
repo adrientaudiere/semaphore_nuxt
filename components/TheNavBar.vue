@@ -75,7 +75,7 @@
       </nuxt-link>
       <nuxt-link to="/orientation" class="flex-auto">
         <fas icon="street-view" aria-hidden="true" />
-        Ré(orientation)
+        Bilans d'orientation / de compétences
       </nuxt-link>
       <nuxt-link to="/consultation" class="flex-auto">
         <fas icon="users" aria-hidden="true" />
@@ -99,8 +99,11 @@ export default {
 </script>
 
 <style scoped>
+#menu {
+  padding: 8px;
+}
 a {
-  margin-right: 20px;
+  margin-right: 10px;
   font-size: 18px;
   @apply text-bleu;
   text-decoration: none;
@@ -128,19 +131,19 @@ a.nuxt-link-active {
 
 @media (max-width: 1150px) {
   a {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 
 @media (max-width: 950px) {
   a {
-    font-size: 12px;
+    font-size: 16px;
   }
 }
 @media (max-width: 800px) {
   a {
     border-left-color: transparent ;
-    margin-bottom: 2px;
+    margin-bottom: 8px;
   }
 }
 .svg-inline--fa {
