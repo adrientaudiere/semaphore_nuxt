@@ -3,7 +3,7 @@ title: Bilans d'orientation - de compétences
 ---
 Dès le lycée et tout au long de la vie professionnelle, des questions d’orientation, réorientation, reconversion se posent. Le bilan d’orientation à destination des plus jeunes, ou le bilan professionnel en cours de carrière sont des moyens mis à votre disposition afin d'orienter ses choix de formation et de métier.
 
-# <i class="fa fa-university" aria-hidden="true"></i> Bilan d’orientation :
+# Bilan d’orientation :
 
 Beaucoup de jeunes lycéens, préoccupés par leur avenir professionnel, sont un peu démunis par rapport au choix de leurs futures études. Pour une très grande majorité d’entre eux, l’inquiétude c’est de trouver l’adéquation entre leurs aptitudes, leurs intérêts, leurs goûts et le choix professionnel. La plupart ne disposent que d'une évaluation scolaire pour estimer - ou sous-estimer - leurs ressources. Une expertise plus approfondie, adossée à des tests spécifiques reconnus, permet au jeune de découvrir les dispositions, motivations et atouts qui constituent sa singularité.
 
@@ -13,7 +13,7 @@ Vous avez achevé vos études, ou vous vous êtes arrêté(e) en cours, et vous 
 
 Si vous vous trouvez dans l’une de ces situations, n’hésitez pas à nous contacter pour que nous vous donnions quelques précisions sur l’aide qu’un bilan d’orientation peut vous apporter. Puis, si vous le jugez utile et pertinent, nous prendrons rendez vous.
 
-### <i class="fa fa-cogs" aria-hidden="true"></i> Méthodologie et déroulement :
+### Méthodologie et déroulement :
 
 #### Premier contact par téléphone :
 
@@ -35,8 +35,8 @@ Remise commentée d'un dossier d'orientation personnalisé, qui constituera un s
 
 Enfin, une rencontre avec les parents permet d’échanger sur les voies professionnelles préconisées et les moyens à mettre en œuvre pour accompagner leur enfant dans ses recherches et ses choix.
 
-# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan professionnel :
-
+# Bilan professionnel :
+ 
 Vous ne vous sentez pas ou plus à votre place dans votre métier ou vous êtes en recherche d’emploi.
 
 Vous souhaitez mener des investigations sur les voies qui vous conviendraient sans savoir comment vous y prendre…
@@ -47,7 +47,7 @@ Vous ne disposez pas de prise en charge pour entreprendre un bilan de compétenc
 
 Si vous vous trouvez dans l’une de ces situations, n’hésitez pas à nous contacter pour que nous vous donnions quelques précisions sur l’aide qu’un bilan professionnel peut vous apporter. Puis, si vous le jugez utile et pertinent, nous prendrons rendez vous.
 
-### <i class="fa fa-cogs" aria-hidden="true"></i> Méthodologie et déroulement :
+### Méthodologie et déroulement :
 
 #### Premier contact par téléphone :
 
@@ -74,7 +74,7 @@ Pour recevoir un devis gratuit, nous <a href="mailto:semaphore@mailo.com"> consu
 
 
 
-# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan de compétences :
+# Bilan de compétences :
 
 Un **bilan de compétences** permet de faire le point sur son parcours, sa personnalité, ses atouts et ses intérêts, dans l'objectif de faire émerger un projet professionnel motivant et réaliste, qui concilie ce que l'on est, ce que l'on aime, ce que l'on peut, et les exigences du marché du travail.
 
