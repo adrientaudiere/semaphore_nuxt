@@ -3,7 +3,7 @@ title: "Consultations "
 ---
 ## Consultations de graphologie et morphopsychologie
 
-Une consultation de morphopsychologie, c’est un entretien d’une heure et demie avec une morphopsychologue agréée qui dressera votre portrait morphologique en s’appuyant sur les raisons pour lesquelles vous avez souhaité la rencontrer, motifs qui varient d’une personne à l’autre. Les témoignages [ci-dessous](#témoignages-) en sont la preuve. Une approche graphologique peut venir compléter cet entretien. Selon le même principe, un portrait morphologique peut éclairer une recherche sur la personnalité d'un ancêtre.
+Une consultation de morphopsychologie, c’est un entretien d’une heure et quart environ avec une morphopsychologue agréée qui dressera votre portrait morphologique en s’appuyant sur les raisons pour lesquelles vous avez souhaité la rencontrer, motifs qui varient d’une personne à l’autre. Les témoignages [ci-dessous](#témoignages-) en sont la preuve. Une approche graphologique peut venir compléter cet entretien. Selon le même principe, un portrait morphologique peut éclairer une recherche sur la personnalité d'un ancêtre.
 
 ### Pour qui ?
 
