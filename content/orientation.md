@@ -72,9 +72,8 @@ Point sur la progression des différentes étapes recommandées, les recherches 
 
 Pour recevoir un devis gratuit, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
-
-
 # Bilan de compétences :
+
 
 Un **bilan de compétences** permet de faire le point sur son parcours, sa personnalité, ses atouts et ses intérêts, dans l'objectif de faire émerger un projet professionnel motivant et réaliste, qui concilie ce que l'on est, ce que l'on aime, ce que l'on peut, et les exigences du marché du travail.
 
@@ -87,4 +86,4 @@ Il vise à :
 • Élaborer un plan d’actions pour atteindre vos nouveaux objectifs via une promotion, une formation ou la
 recherche d’un nouvel emploi.
 
-Eligible au CPF - Programme sur demande.
+Eligible au CPF - [Programme sur demande](mailto:semaphore@mailo.com).
