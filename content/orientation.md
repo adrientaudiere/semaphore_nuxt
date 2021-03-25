@@ -1,11 +1,9 @@
 ---
-title: Orientation scolaire et professionnelle
-
+title: Bilans d'orientation - de compétences
 ---
-
 Dès le lycée et tout au long de la vie professionnelle, des questions d’orientation, réorientation, reconversion se posent. Le bilan d’orientation à destination des plus jeunes, ou le bilan professionnel en cours de carrière sont des moyens mis à votre disposition afin d'orienter ses choix de formation et de métier.
 
-## <i class="fa fa-university" aria-hidden="true"></i> Bilan d’orientation :
+# <i class="fa fa-university" aria-hidden="true"></i> Bilan d’orientation :
 
 Beaucoup de jeunes lycéens, préoccupés par leur avenir professionnel, sont un peu démunis par rapport au choix de leurs futures études. Pour une très grande majorité d’entre eux, l’inquiétude c’est de trouver l’adéquation entre leurs aptitudes, leurs intérêts, leurs goûts et le choix professionnel. La plupart ne disposent que d'une évaluation scolaire pour estimer - ou sous-estimer - leurs ressources. Une expertise plus approfondie, adossée à des tests spécifiques reconnus, permet au jeune de découvrir les dispositions, motivations et atouts qui constituent sa singularité.
 
@@ -37,8 +35,7 @@ Remise commentée d'un dossier d'orientation personnalisé, qui constituera un s
 
 Enfin, une rencontre avec les parents permet d’échanger sur les voies professionnelles préconisées et les moyens à mettre en œuvre pour accompagner leur enfant dans ses recherches et ses choix.
 
-## <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan professionnel :
-
+# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan professionnel :
 
 Vous ne vous sentez pas ou plus à votre place dans votre métier ou vous êtes en recherche d’emploi.
 
@@ -74,3 +71,20 @@ Entretien de suivi en fonction des préconisations avancées lors de la seconde 
 Point sur la progression des différentes étapes recommandées, les recherches effectuées dans les directions identifiées ensemble, les enquêtes métiers menées, les secteurs visés, les professionnels rencontrés.
 
 Pour recevoir un devis gratuit, nous consulter.
+
+
+
+# <i class="fa fa-map-signs" aria-hidden="true"></i>  Bilan de compétences :
+
+Un **bilan de compétences** permet de faire le point sur son parcours, sa personnalité, ses atouts et ses intérêts, dans l'objectif de faire émerger un projet professionnel motivant et réaliste, qui concilie ce que l'on est, ce que l'on aime, ce que l'on peut, et les exigences du marché du travail.
+
+Un bilan de compétences est individuel et dure 24 heures sur une durée d’environ 3 mois en fonction de la fréquence des rendez-vous.
+
+Il vise à :
+• Analyser votre parcours professionnel et personnel
+• Repérer vos talents, vos motivations, vos valeurs, vos besoins.
+• Définir un projet professionnel ou de formation en fonction de votre personnalité et de vos aspirations
+• Élaborer un plan d’actions pour atteindre vos nouveaux objectifs via une promotion, une formation ou la
+recherche d’un nouvel emploi.
+
+Eligible au CPF - Programme sur demande.

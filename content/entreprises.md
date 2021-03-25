@@ -1,8 +1,6 @@
 ---
 title: Services aux entreprises
 ---
-
-
 Vous êtes **chef d’entreprise**, cadre dirigeant ou responsable des ressources humaines.
 Vous menez vous-même et directement vos **missions de recrutement** et la gestion de votre personnel.
 
@@ -20,23 +18,24 @@ Vous souhaitez ponctuellement vous adosser sur un éclairage complémentaire con
 
 **Économique**, votre budget de recrutement est précisément contrôlé.
 
+## Des services modulables à votre disposition:
 
-## Des services modulables à votre disposition :
 #### Par téléphone
 
-- Le compte-rendu oral : le graphologue intervient rapidement après réception des documents. Peut être complété par une synthèse écrite sous forme de mémo.
+* Le compte-rendu oral : le graphologue intervient rapidement après réception des documents. Peut être complété par une synthèse écrite sous forme de mémo.
 
 #### Par e-mail ou courrier :
 
-- Le flash : analyse des atouts / points de réserve / conclusion sur une page.
-- Le profil graphologique rédigé : le portrait du candidat et son adéquation au poste envisagé sont rédigés sur une page et demie.
-- L’étude graphologique approfondie : la prestation précédente est développée sur 3 pages. Les thèmes abordés sont plus nombreux et creusés.
+* Le flash : analyse des atouts / points de réserve / conclusion sur une page.
+* Le profil graphologique rédigé : le portrait du candidat et son adéquation au poste envisagé sont rédigés sur une page et demie.
+* L’étude graphologique approfondie : la prestation précédente est développée sur 3 pages. Les thèmes abordés sont plus nombreux et creusés.
 
 Pour recevoir un devis gratuit, nous  <a href="mailto:semaphore@mailo.com"> consulter</a>.
 
 <div class="my-8"> 
 
----
+- - -
+
 La norme AFNOR <a href="doc/AFNOR.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> NFX-50767 relative aux cabinets de conseil en recrutement ainsi que le <a href="http://www.graphologie.asso.fr/index.php?id=53">code de déontologie</a> du Syndicat des Graphologues Professionnels de France et de la Société Française de Morphopsychologie sont votre garantie.
 
 <div>
