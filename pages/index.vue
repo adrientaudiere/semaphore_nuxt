@@ -109,7 +109,7 @@
       <div class="mb-6">
         <nuxt-link
           to="/actualite"
-          class="text-violet bg-bleu p-2 rounded-lg mb-4"
+          class="text-violet bg-bleu bg-opacity-50 p-2 rounded-lg mb-4"
         >
           Archives des actualités
         </nuxt-link>
