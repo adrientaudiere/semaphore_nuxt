@@ -83,7 +83,7 @@
         Actualités
       </h2>
       <div
-        class="mb-0 flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
+        class="mb-0 flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8"
       >
         <v-card v-for="New of news.slice(0, 5)" :key="New.slug" class="my-3">
           <NuxtLink :to="New.slug" class="text-vert_sombre">
@@ -94,8 +94,8 @@
               <span class="display-1 text-violet text-indent">
                 {{ New.date }}
               </span>
-              <div class="text--primary font-sans md:max-w-sm">
-                {{ New.description }}
+              <div class="text--primary font-sans md:max-w-sm h-12">
+                {{ New.description.slice(0, 150) }} ...
               </div>
             </v-card-text>
             <v-card-actions>

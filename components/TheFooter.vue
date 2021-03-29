@@ -8,7 +8,7 @@
         </a>
       </li>
       <li>
-        <a href="https://osm.org/go/eq2rZGS?m=&node=1618128435" target="_blank">
+        <a href="https://osm.org/go/eq2rZGS?m=&node=1618128435" target="_blank" rel="noreferrer">
           <fas icon="map-marked-alt" aria-hidden="true" class="text-3xl" /> <span
             class="hidden md:inline"
           >1 avenue des Coudriers - 44120 VERTOU</span>

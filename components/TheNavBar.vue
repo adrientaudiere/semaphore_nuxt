@@ -104,7 +104,7 @@ export default {
 }
 a {
   margin-right: 10px;
-  font-size: 18px;
+  font-size: 16px;
   @apply text-bleu;
   text-decoration: none;
   padding-top: 2px;
