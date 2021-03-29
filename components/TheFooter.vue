@@ -1,7 +1,7 @@
 <template>
   <footer>
-    <div class="w-screen bg-bleu flex justify-around py-2 text-base">
-      <ul>
+    <div class="w-screen bg-bleu  justify-around py-2 text-base">
+      <ul class="flex justify-around ">
         <li>
           <a href="mailto:semaphore@mailo.com">
             <fas icon="envelope-square" aria-hidden="true" class="text-3xl" />
@@ -65,8 +65,10 @@ export default {}
 </script>
 
 <style scoped>
+
 li {
   list-style: none;
+  display: inline-block;
 }
 .svg-inline--fa {
   @apply text-violet;

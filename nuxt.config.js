@@ -14,7 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: 'Site professionnel de Sémaphore, société de Laurence Crespel graphologue et morphopsycholoque.' }
     ],
     link: [
-      { rel: 'icon', type: 'image/png', sizes: '180x180', href: 'apple-touch-icon.png' },
+      { rel: 'icon', type: 'image/png', sizes: '180x180', href: 'img/apple-touch-icon.png' },
       { rel: 'icon', type: 'image/png', sizes: '32x32', href: 'img/favicon-32x32.png' },
       { rel: 'icon', type: 'image/png', sizes: '16x16', href: 'img/favicon-16x16.png' }
     ]
