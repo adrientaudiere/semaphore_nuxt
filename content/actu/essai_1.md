@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: "06/2021 - 3, 4, 5, 31 mai et 1° juin "
+date: "3, 4, 5, 31 mai et 1° juin 2021  "
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Nantes
