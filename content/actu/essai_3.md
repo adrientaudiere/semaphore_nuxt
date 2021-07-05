@@ -1,9 +1,9 @@
 ---
 title: FORMATION DE MORPHOPSYCHOLOGIE 1
-date: (1) - 3, 4, 5, 18 et 19 juin 2021
+date: 1er, 2 et 3/12/2021
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
-LIEU : PARIS XIV°
+LIEU : Nantes, en collaboration avec FAROS https://www.farosinstitut.com/
 
 PUBLIC :
 Tout consultant intéressé par un outil direct et immédiat ne nécessitant aucun accessoire, permettant d’identifier les aptitudes, comprendre un certain nombre de fonctionnements pour conseiller les personnes qu’il accompagne (bilans d’orientation, bilans de compétences, coaching, out-placement, partenariat, réinsertion et reclassement professionnels, rééducation…)
@@ -13,7 +13,6 @@ OBJECTIF :
 * Mieux se cerner et mieux comprendre les autres. Prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
 * Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
 * Acquérir un outil pour affiner sa stratégie de communication.
-
 
 BENEFICES POUR LES PARTICIPANTS :
 
