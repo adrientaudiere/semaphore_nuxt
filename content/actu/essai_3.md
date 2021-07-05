@@ -1,5 +1,5 @@
 ---
-title: FORMATION DE MORPHOPSYCHOLOGIE 1
+title: "FORMATION DE MORPHOPSYCHOLOGIE "
 date: 1er, 2 et 3/12/2021
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
