@@ -1,12 +1,8 @@
 ---
-title: COMMENT PENSEZ-VOUS QUE VOTRE VISAGE PARLE ?
-date: Vendredi 11 juin 2021 - 20h/22h
-description: Conférence / Démonstration
+title: ATELIER CONFERENCE DE MORPHOPSYCHOLOGIE
+date: Jeudi 23 septembre2021 - 9h30/12h30
+description: Atelier / Conférence / Démonstration
 ---
-Organisateur : GERM (Groupe d'Etudes et de Recherches en Morphopsychologie) : http://morphopsy.com/
+Organisateur : FAROS : https://www.farosinstitut.com/
 
-LIEU : Vertou - Parc du Loiry 
-
-Inscription :
-
-https://www.eventbrite.com/e/billets-comment-pensez-vous-que-votre-visage-parle-154598611609?aff=ebdssbcitybrowse
+Inscription : https://www.eventbrite.fr/e/billets-atelier-conference-de-morphopsychologie-162063053957?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
