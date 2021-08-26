@@ -1,7 +1,6 @@
 ---
 title: À propos de Sémaphore
 ---
-
 ## Qui suis-je?
 
 Dans une entreprise, chaque individu apporte sa contribution en fonction de ses compétences, ses expériences, ses dispositions et ses aptitudes.
@@ -14,20 +13,19 @@ Cette démarche d’accompagnement est tout naturellement déclinée à l’atte
 
 Graphologue-Conseil (diplômée de la Société Française de Graphologie et du Syndicat des Graphologues Professionnels de France), et morphopsychologue (diplômée de la Société Française de Morphopsychologie), Laurence Crespel Taudière a créé il y a 15 ans le cabinet SÉMAPHORE, spécialisé dans le conseil aux entreprises et organisations de toutes tailles, ainsi que dans l’accompagnement de salariés et de particuliers.
 
-
 ## Les produits et services que je propose :
 
-- [Recrutement, mobilité interne, partenariat](/entreprises)
-- [Bilans d’orientation et professionnels](/orientation)
-- [Bilans de compétence](/bilan)
-- [Consultations de morphopsychologie et graphologie](/consultation)
-- [Formations de morphopsychologie et graphologie - Ateliers découverte](/formation)
-- [Conférences](/formation#conf%C3%A9rences)
+* [Recrutement, mobilité interne, partenariat](/entreprises)
+* [Bilans d’orientation et professionnels](/orientation)
+* [Bilans de compétence](/bilan)
+* [Consultations de morphopsychologie et graphologie](/consultation)
+* [Formations de morphopsychologie et graphologie - Ateliers découverte](/formation)
+* [Conférences](/formation#conf%C3%A9rences)
 
 ## Les outils que j'utilise :
 
-- [Graphologie](https://www.graphologie.asso.fr) 
-- [Morphopsychologie](http://www.morphopsy.com)
-- Inventaire d'intérêts professionnels Strong ®
-- Questionnaire de personnalité MBTI (Myers Briggs Type Indicator)
-
+* [Graphologie](https://www.graphologie.asso.fr) 
+* [Morphopsychologie](http://www.morphopsy.com)
+* Inventaire d'intérêts professionnels Strong ®
+* Questionnaire de personnalité MBTI (Myers Briggs Type Indicator)
+* La PNL (Programmation Neuro Linguistique)
