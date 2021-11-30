@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: 1er, 2 et 3/12/2021
+date: 13, 14, 15 janvier et 3, 4 février 2022
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Nantes, en collaboration avec FAROS https://www.farosinstitut.com/
