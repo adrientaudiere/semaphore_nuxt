@@ -29,3 +29,4 @@ Graphologue-Conseil (diplômée de la Société Française de Graphologie et du 
 * Inventaire d'intérêts professionnels Strong ®
 * Questionnaire de personnalité MBTI (Myers Briggs Type Indicator)
 * La PNL (Programmation Neuro Linguistique)
+* Le Dialogue Intérieur
