@@ -1,8 +1,12 @@
 ---
 title: ATELIER CONFERENCE DE MORPHOPSYCHOLOGIE
-date: Vendredi 1er avril 2022 - 19h/21h
+date: Samedi 13 mai 2023 - 10h/12h
 description: Atelier / Conférence / Démonstration
 ---
+La morphopsychologie, comment ça marche? A quoi ça sert? Comment se déroule un portrait?
+
+Démonstration avec des personnes volontaires.
+
 Salle Flora Tristan
 
 Centre Désirée Colombe
