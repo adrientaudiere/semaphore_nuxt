@@ -3,26 +3,13 @@ title: Formations et ateliers
 ---
 ## Atelier de découverte :
 
-### Atelier de découverte de la morphopsychologie (3 heures)
+### Atelier de découverte de la morphopsychologie (2 heures)
 
 Au-delà de la sympathie ou de l'antipathie que nous inspire un visage, hors de tout critère esthétique, la morphopsychologie est une technique de lecture du visage qui permet d'avoir accès à la spécificité d’une personne, ses dispositions, ses atouts, ses freins.
 
-***Moyens mis en oeuvre :***
+Un atelier c'est le moyen de comprendre comment fonctionne cette approche, son utilité, ses objectifs.
 
-* Apprendre à reconnaître les types large et longiligne, comprendre leurs comportements.
-* Observer et interpréter quelques éléments du visage comme les étages, les récepteurs, les profils, les composantes féminine, masculine, enfantine,…
-* Illustration et application sur de nombreuses photos, notamment de personnages célèbres.
-
-### Atelier de découverte de la graphologie (3 heures) :
-
-Grandes, petites, appuyées, légères, compactes, aérées, simples, sophistiquées,… Les écritures nous dévoilent de nombreux aspects de la personnalité des scripteurs. Des graphologues professionnels vous expliquent « comment ça marche » !
-
-***Moyens mis en oeuvre :***
-
-* Se familiariser avec le maniement de documents manuscrits originaux.
-* De quelle manière travaillent les graphologues. Approche de cette science humaine adossée à une technique initiée il y a une centaine d’années en France et en Allemagne.
-* Quels sont les traits de personnalité que l’étude graphologique permet de déceler ?
-* Observation et interprétation de quelques écritures présentées.
+En complément de la théorie, quelques esquisses de portraits avec des personnes volontaires illustrent la démarche.
 
 ## Formations
 
@@ -44,8 +31,6 @@ Pour en savoir plus, rendez-vous sur le site du [G.E.R.M.](http://morphopsy.com/
 * Les métiers d'investigation : profiling
 
 Pour connaître les conditions et modalités de prise en charge, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
-
-
 
 ## Conférences
 
