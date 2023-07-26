@@ -11,7 +11,7 @@ La mission de **Sémaphore**, représenté par Laurence Crespel Taudière, consi
 
 Cette démarche d’accompagnement est tout naturellement déclinée à l’attention de jeunes en démarche d’orientation, les professionnels de demain. Leur faire prendre conscience de leurs dispositions et de leurs atouts, pointer les axes de vigilance en vue d’identifier des voies professionnelles adaptées entre également dans le champ d’action de Sémaphore.
 
-Graphologue-Conseil (diplômée de la Société Française de Graphologie et du Syndicat des Graphologues Professionnels de France), et morphopsychologue (diplômée de la Société Française de Morphopsychologie), Laurence Crespel Taudière a créé il y a 15 ans le cabinet SÉMAPHORE, spécialisé dans le conseil aux entreprises et organisations de toutes tailles, ainsi que dans l’accompagnement de salariés et de particuliers.
+Graphologue-Conseil (diplômée de la Société Française de Graphologie et du Syndicat des Graphologues Professionnels de France), et morphopsychologue (diplômée de la Société Française de Morphopsychologie), Laurence Crespel Taudière a créé il y a 25 ans le cabinet SÉMAPHORE, spécialisé dans le conseil aux entreprises et organisations de toutes tailles, ainsi que dans l’accompagnement de salariés et de particuliers.
 
 ## Les produits et services que je propose :
 
