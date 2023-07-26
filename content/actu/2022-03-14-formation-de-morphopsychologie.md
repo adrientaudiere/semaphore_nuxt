@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: 17,  18, 19 novembre et 8, 9 et 10 décembre 2022
+date: 5, 6, 7 puis 19, 20 et 21 octobre 2023
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Nantes
