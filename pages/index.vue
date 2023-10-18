@@ -23,8 +23,14 @@
  -->
       <h1 class="md:text-6xl mb-6 mt-12 text-vert_sombre text-center">
         <img src="img/logo.svg" class="w-16 inline" alt="">
+        <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
+          <a href="https://semaphore.fr/apropos/" class="text-violet">Me connaître</a>
+        </button>
         Semaphore <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
           <a href="mailto:semaphore@mailo.com" class="text-violet">Me contacter</a>
+        </button>
+        <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
+          <a href="https://semaphore.fr/publications/" class="text-violet">Mes publications</a>
         </button>
       </h1>
       <hr class="text-vert_sombre my-4 border-2 opacity-25">

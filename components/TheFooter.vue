@@ -84,6 +84,6 @@ a {
   @apply border-b-0;
 }
 a:hover {
-  opacity: 50%;
+  color: rgb(124, 9, 124);
 }
 </style>

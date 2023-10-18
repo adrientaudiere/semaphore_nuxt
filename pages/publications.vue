@@ -13,7 +13,7 @@
 <script>
 export default {
   async asyncData ({ $content, params }) {
-    const page = await $content('bilan').fetch()
+    const page = await $content('publications').fetch()
     return {
       page
     }
