@@ -14,3 +14,13 @@ title: Publications
 Portrait morphologique de Madame de Senonnes : https://urlz.fr/o5T3 
 
 Portrait du Condottière : https://urlz.fr/o5XT
+
+Portrait de Madame Louis Cézard : https://urlz.fr/o5YE
+
+Portrait de Louis-François Bertin : https://urlz.fr/o5YT
+
+Portrait de Luisa Vertova Agosti : https://urlz.fr/o5Z4
+
+Portrait de Jean de La Fontaine : https://urlz.fr/o5Zp
+
+Portrait d'Alexandre Dumas : https://urlz.fr/o5ZB
