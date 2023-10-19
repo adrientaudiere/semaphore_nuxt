@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: Nantes 5, 6, 7 puis 19, 20 et 21 octobre 2023
+date: Nantes 30, 31 mai, 1er juin puis 27, 28 et 29 juin 2024
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Nantes
@@ -19,6 +19,6 @@ Acquérir une méthodologie de restitution de portraits.
 
 ***Prérequis* :** sans objet.
 
-***Durée de la formation*** :42 heures réparties sur 6 journées de formation.
+***Durée de la formation*** : 42 heures réparties sur 6 journées de formation.
 
 PROGRAMME SUR DEMANDE
