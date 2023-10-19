@@ -1,12 +1,10 @@
 ---
-title: ATELIER CONFERENCE DE MORPHOPSYCHOLOGIE
-date: Vendredi 1er avril 2022 - 19h/21h
+title: STAND ET CONFERENCE DE MORPHOPSYCHOLOGIE
+date: "Samedi 10 et dimanche 11 février 2024 "
 description: Atelier / Conférence / Démonstration
 ---
-Salle Flora Tristan
+Salon ZEN ATTITUDE
 
-Centre Désirée Colombe
+Domaine de la Genestrie
 
-8, rue Arsène leloup
-
-44000 Nantes
+44130 Le Gâvre
