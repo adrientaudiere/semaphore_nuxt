@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: PARIS 7, 8, 9 puis 28, 29 et 30/03/2024
+date: PARIS 7, 8, 9 puis 21, 22 et 23 mars 2024
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Paris
