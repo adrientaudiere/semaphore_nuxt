@@ -9,7 +9,7 @@ title: Publications
 
 *On est bien d’accord, il y a d’une part les apparences, la « vitrine » que nous offrons au monde, et d’autre part qui nous sommes foncièrement. L’écart n’est pas forcément immense mais suffisamment important pour que notre curiosité vienne s’y faufiler !*
 
-## Cliquez sur les liens pour découvrir les portraits!
+## Cliquez sur les liens situés sous chaque photo pour découvrir les portraits!
 
 ![https://urlz.fr/o5T3](/img/mme-de-senonnes2.png "Portrait morphologique de Madame de Senonnes")
 
