@@ -13,7 +13,7 @@ title: Publications
 
 ![https://urlz.fr/o5T3](/img/mme-de-senonnes2.png "Portrait morphologique de Madame de Senonnes")
 
-Portrait morphologique de Madame de Senonnes : https://urlz.fr/o5T3 
+
 
 ![https://urlz.fr/o5XT](/img/le-condottière2.png "Portrait du Condottière")
 
