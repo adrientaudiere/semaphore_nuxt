@@ -13,11 +13,17 @@ title: Publications
 
 ![https://urlz.fr/o5T3](/img/mme-de-senonnes2.png "Portrait morphologique de Madame de Senonnes")
 
+Portrait morphologique de Madame de Senonnes : https://urlz.fr/o8Mu
+
 
 
 ![https://urlz.fr/o5XT](/img/le-condottière2.png "Portrait du Condottière")
 
 Portrait du Condottière : https://urlz.fr/o5XT
+
+
+
+![](/img/luisa-vertova-agosti2.png "Portrait de Madame Louis Cézard")
 
 Portrait de Madame Louis Cézard : https://urlz.fr/o5YE
 
