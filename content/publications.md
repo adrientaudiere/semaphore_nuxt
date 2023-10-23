@@ -9,7 +9,9 @@ title: Publications
 
 *On est bien d’accord, il y a d’une part les apparences, la « vitrine » que nous offrons au monde, et d’autre part qui nous sommes foncièrement. L’écart n’est pas forcément immense mais suffisamment important pour que notre curiosité vienne s’y faufiler !*
 
-## Voici la liste de mes publications :
+## Cliquez sur les photos pour découvrir les portraits!
+
+![]()
 
 Portrait morphologique de Madame de Senonnes : https://urlz.fr/o5T3 
 
