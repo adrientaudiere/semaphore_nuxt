@@ -11,7 +11,7 @@ title: Publications
 
 ## Cliquez sur les photos pour découvrir les portraits!
 
-![]()
+![https://urlz.fr/o5T3](/img/mme-de-senonnes.png "Portrait morphologique de Madame de Senonnes")
 
 Portrait morphologique de Madame de Senonnes : https://urlz.fr/o5T3 
 
