@@ -9,7 +9,7 @@ title: Publications
 
 *On est bien d’accord, il y a d’une part les apparences, la « vitrine » que nous offrons au monde, et d’autre part qui nous sommes foncièrement. L’écart n’est pas forcément immense mais suffisamment important pour que notre curiosité vienne s’y faufiler !*
 
-## Cliquez sur les photos pour découvrir les portraits!
+## Cliquez sur les liens pour découvrir les portraits!
 
 ![https://urlz.fr/o5T3](/img/mme-de-senonnes2.png "Portrait morphologique de Madame de Senonnes")
 
@@ -23,14 +23,30 @@ Portrait du Condottière : https://urlz.fr/o5XT
 
 
 
-![](/img/luisa-vertova-agosti2.png "Portrait de Madame Louis Cézard")
+![](/img/mme-louis-cézard2.png "Portrait de Madame Louis Cézard")
 
 Portrait de Madame Louis Cézard : https://urlz.fr/o5YE
 
+
+
+![](/img/louis-françois-bertin2.png "Portrait de Louis-François Bertin")
+
 Portrait de Louis-François Bertin : https://urlz.fr/o5YT
+
+
+
+![](/img/luisa-vertova-agosti2.png "Portrait de Luisa Vertova Agosti")
 
 Portrait de Luisa Vertova Agosti : https://urlz.fr/o5Z4
 
+
+
+![](/img/jean-de-la-fontaine2.png "Portrait de Jean de La Fontaine")
+
 Portrait de Jean de La Fontaine : https://urlz.fr/o5Zp
+
+
+
+![](/img/alexandre-dumas2.png "Portrait d'Alexandre Dumas")
 
 Portrait d'Alexandre Dumas : https://urlz.fr/o5ZB
