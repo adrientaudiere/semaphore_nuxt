@@ -21,4 +21,4 @@ Acquérir une méthodologie de restitution de portraits.
 
 ***Durée de la formation*** : 42 heures réparties sur 6 journées de formation.
 
-[PROGRAMME pdf](img/Morphopsychologie_Nantes_05_06_2024)
+[PROGRAMME pdf](img/Morphopsychologie_Nantes_05_06_2024.pdf)
