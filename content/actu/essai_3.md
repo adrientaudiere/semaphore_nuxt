@@ -34,4 +34,4 @@ BENEFICES POUR LES PARTICIPANTS :
 * Éclairer une démarche d’orientation à destination d’adolescents parfois trop jeunes pour se prêter à
   certains tests.
 
-PROGRAMME SUR DEMANDE
+[Programme en pdf](img/Morphopsychologie_Paris_03_24.pdf)
