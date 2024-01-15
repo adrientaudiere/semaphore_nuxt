@@ -21,4 +21,4 @@ Acquérir une méthodologie de restitution de portraits.
 
 ***Durée de la formation*** : 42 heures réparties sur 6 journées de formation.
 
-PROGRAMME SUR DEMANDE
+[PROGRAMME pdf](static/img/programme-de-formation-morphopsychologie-paris-03_24.pdf)
