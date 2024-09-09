@@ -1,10 +1,10 @@
 ---
-title: STAND ET CONFERENCE DE MORPHOPSYCHOLOGIE
-date: "Samedi 10 et dimanche 11 février 2024 "
-description: Atelier / Conférence / Démonstration
+title: "Lire le visage pour mieux communiquer :) "
+date: novembre 2024
+description: WEBINAIRE
 ---
-Salon ZEN ATTITUDE
+Dans toute relation notamment commerciale, il convient de nouer le plus sereinement et le plus rapidement possible un contact approprié. « Compte tenu de ce que je vois de mon interlocuteur situé en face de moi, quelle serait la meilleure façon de lui parler et que serait-il préférable de ne pas lui dire ? »
 
-Domaine de la Genestrie
+La morphopsychologie, en permettant de décrypter des grandes lignes de personnalités, deviendra une alliée précieuse.
 
-44130 Le Gâvre
+Les participants ne deviendront pas des professionnels de la lecture des visages mais repartiront avec des clés de lecture qu'ils utiliseront spontanément et facilement.
