@@ -5,8 +5,6 @@ description: La MP, un outil pour identifier les talents et renforcer les aptitu
 ---
 LIEU : Paris
 
-Dates : 12, 13, 14 juin puis 26, 27 et 28 juin 2025
-
 ***Objectif :***
 
 Professionnaliser le participant en lui permettant d'acquérir une compétence complémentaire en accompagnement et développement personnel et professionnel grâce à l'éclairage de la morphopsychologie.
