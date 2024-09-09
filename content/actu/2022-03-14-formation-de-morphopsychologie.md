@@ -1,6 +1,6 @@
 ---
 title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: Nantes 30, 31 mai, 1er juin puis 27, 28 et 29 juin 2024
+date: "Nantes 16, 17, 18 janvier puis 29, 30 janvier et 1er février 2025 "
 description: La MP, un outil pour identifier les talents et renforcer les aptitudes
 ---
 LIEU : Nantes
@@ -15,10 +15,12 @@ Apprendre à reconnaître ses propres besoins, motivations et ressources et les 
 
 Acquérir une méthodologie de restitution de portraits.
 
-***Public concerné* :** professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, ...
+S'approprier et affermir la pratique du portrait morphologique
+
+***Public concerné* :** professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, et toute personne qui souhaite mieux se connaître et comprendre les autres dans un cadre de développement personnel.
 
 ***Prérequis* :** sans objet.
 
-***Durée de la formation*** : 42 heures réparties sur 6 journées de formation.
+***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
 
 [PROGRAMME pdf](img/Morphopsychologie_Nantes_05_06_2024.pdf)
