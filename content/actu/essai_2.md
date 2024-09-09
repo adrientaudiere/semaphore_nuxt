@@ -1,7 +1,7 @@
 ---
-title: "Lire le visage pour mieux communiquer :) "
+title: WEBINAIRE
 date: novembre 2024
-description: WEBINAIRE
+description: "Lire le visage pour mieux communiquer :) "
 ---
 Dans toute relation, notamment commerciale, il convient de nouer le plus sereinement et le plus rapidement possible un contact approprié. « Compte tenu de ce que je vois de mon interlocuteur situé en face de moi, quelle serait la meilleure façon de lui parler et que serait-il préférable de ne pas lui dire ? »
 
