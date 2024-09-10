@@ -23,4 +23,4 @@ S'approprier et affermir la pratique du portrait morphologique
 
 ***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
 
-[PROGRAMME pdf](/img/PROGRAMME_de_formation_Morphopsychologie_Nantes_01_02_2025.pdf)
+[PROGRAMME pdf](img/PROGRAMME_de_formation_Morphopsychologie_Nantes_01_02_2025.pdf)
