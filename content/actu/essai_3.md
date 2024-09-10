@@ -25,4 +25,5 @@ Tout consultant intéressé par un outil direct et immédiat ne nécessitant auc
 
 ***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
 
-[PROGRAMME pdf](/img/PROGRAMME_formation_Morphopsychologie_Paris_06_2025.pdf)
+
+<a href="https://semaphore.fr/img/PROGRAMME_formation_Morphopsychologie_Paris_06_2025.pdf" target="_blank" rel="noopener noreferrer">PROGRAMME complet pdf</a>
