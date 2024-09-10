@@ -25,4 +25,4 @@ Tout consultant intéressé par un outil direct et immédiat ne nécessitant auc
 
 ***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
 
-[PROGRAMME pdf](/img/programme_formation_morphopsychologie_paris_06_2025.pdf)
+[PROGRAMME pdf](/img/PROGRAMME_formation_Morphopsychologie_Paris_06_2025.pdf)
