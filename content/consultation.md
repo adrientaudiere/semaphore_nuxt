@@ -19,7 +19,7 @@ Identifier ses spécificités, ses ressources, ses leviers de performance, prend
 
 ### Le tarif ?
 
-100,00 €
+110,00 €
 
 ### Témoignages :
 
