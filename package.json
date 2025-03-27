@@ -18,7 +18,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "@nuxt/content": "^1.11.1",
     "core-js": "^3.8.2",
-    "nuxt": "^2.14.12",
+    "nuxt": "^3.16.1",
     "nuxt-compress": "^4.1.0",
     "nuxt-fontawesome": "^0.4.0"
   },
