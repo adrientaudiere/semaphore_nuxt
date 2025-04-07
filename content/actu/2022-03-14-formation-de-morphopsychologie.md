@@ -1,13 +1,13 @@
 ---
 title: ATELIER Soignez votre communication grâce à la morphopsychologie
-date: "Nantes 23 mai 2025 "
+date: "Vendredi 23 mai 2025 "
 description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
 ---
-LIEU : St Jean de Boiseau (44)
+**LIEU :** St Jean de Boiseau (44)
 
-L’objectif est de sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
+**OBJECTIF** : sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
 
-### 🔹 **Pour qui ?**
+**POUR QUI?**
 
 👉 Les professionnels des domaines du **commerce, des ressources humaines, de la communication, du juridique et du social**, souhaitant améliorer leur compréhension des autres et optimiser leurs interactions.
 
@@ -17,7 +17,7 @@ L’objectif est de sensibiliser le public de 12 participants maximum à la morp
 
 👉 Toute personne curieuse d’en savoir plus sur elle-même et sur les autres pour améliorer ses relations et sa prise de décision.
 
-### 🔹 **Pourquoi faire ?**
+**POURQUOI FAIRE?**
 
 ✨ **Identifier ses atouts** et optimiser son potentiel professionnel et personnel.
 
@@ -31,10 +31,10 @@ L’objectif est de sensibiliser le public de 12 participants maximum à la morp
 
 🚀 **Prêt(e) pour cette exploration intérieure ?** Découvrez votre **carte du monde intérieure** et apprenez à mieux vous positionner dans vos échanges ! 🧭💡
 
-### ✨ **Tarif :**
+**TARIF :**
 
-💰 **150€ par personne**
+💰 **150€** 
 
-### 🚨 **Modalité d'inscription :**
+**MODALITÉS D'INSCRIPTION :**
 
 Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
