@@ -1,27 +1,40 @@
 ---
-title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: "Nantes 16, 17, 18 janvier puis 29, 30 janvier et 1er février 2025 "
-description: La MP, un outil pour identifier les talents et renforcer les aptitudes
+title: ATELIER Soignez votre communication grâce à la morphopsychologie
+date: "Nantes 23 mai 2025 "
+description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
 ---
-LIEU : Nantes
+LIEU : St Jean de Boiseau (44)
 
-***Objectif :***
+L’objectif est de sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
 
-Professionnaliser le participant en lui permettant d'acquérir une compétence complémentaire en accompagnement et développement personnel et professionnel grâce à l'éclairage de la morphopsychologie.
+### 🔹 **Pour qui ?**
 
-Acquérir des connaissances nécessaires, tant pratiques que théoriques, à une bonne utilisation (efficace et éthique) de la morphopsychologie de manière à mieux se cerner et mieux comprendre les autres, prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
+👉 Les professionnels des domaines du **commerce, des ressources humaines, de la communication, du juridique et du social**, souhaitant améliorer leur compréhension des autres et optimiser leurs interactions.
 
-Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
+👉 Les **dirigeants, managers et recruteurs** qui veulent affiner leur lecture des personnalités pour mieux communiquer et prendre des décisions plus éclairées.
 
-Acquérir une méthodologie de restitution de portraits.
+👉 Les **professionnels en contact direct avec le public** (conseillers, formateurs, avocats, coachs, travailleurs sociaux…) qui souhaitent renforcer leur posture et adapter leur discours selon leurs interlocuteurs.
 
-S'approprier et affermir la pratique du portrait morphologique
+👉 Toute personne curieuse d’en savoir plus sur elle-même et sur les autres pour améliorer ses relations et sa prise de décision.
 
-***Public concerné* :** professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, et toute personne qui souhaite mieux se connaître et comprendre les autres dans un cadre de développement personnel.
+### 🔹 **Pourquoi faire ?**
 
-***Prérequis* :** sans objet.
+✨ **Identifier ses atouts** et optimiser son potentiel professionnel et personnel.
 
-***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
+✨ **Comprendre et anticiper les réactions des autres**, qu’elles soient harmonieuses ou conflictuelles.
 
-<a href="https://semaphore.fr/img/PROGRAMME_de_formation_Morphopsychologie_Nantes_01_02_2025.pdf" target="_blank" rel="noopener noreferrer">PROGRAMME complet pdf</a>
+✨ **Déceler des talents cachés** chez soi et chez les autres, pour mieux les valoriser.
 
+✨ **Prendre conscience de son image** et de la manière dont on est perçu.
+
+✨ **Améliorer sa communication et son impact** en ajustant sa posture et son discours en fonction des interlocuteurs.
+
+🚀 **Prêt(e) pour cette exploration intérieure ?** Découvrez votre **carte du monde intérieure** et apprenez à mieux vous positionner dans vos échanges ! 🧭💡
+
+### ✨ **Tarif :**
+
+💰 **150€ par personne**
+
+### 🚨 **Modalité d'inscription :**
+
+Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
