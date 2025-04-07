@@ -1,10 +1,40 @@
 ---
-title: WEBINAIRE
-date: novembre 2024
-description: "Lire le visage pour mieux communiquer :) "
+title: ATELIER Soignez votre communication grâce à la morphopsychologie
+date: Vendredi 20 juin 2025
+description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
 ---
-Dans toute relation, notamment commerciale, il convient de nouer le plus sereinement et le plus rapidement possible un contact approprié. « Compte tenu de ce que je vois de mon interlocuteur situé en face de moi, quelle serait la meilleure façon de lui parler et que serait-il préférable de ne pas lui dire ? »
+**LIEU** : Domaine de la Foresterie à Vertou (44)
 
-La morphopsychologie, en permettant de décrypter des grandes lignes de personnalités, deviendra une alliée précieuse.
+**OBJECTIF** : sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
 
-Les participants ne deviendront pas des professionnels de la lecture des visages mais repartiront avec des clés de lecture qu'ils utiliseront spontanément et facilement.
+**POUR QUI?**
+
+👉 Les professionnels des domaines du **commerce, des ressources humaines, de la communication, du juridique et du social**, souhaitant améliorer leur compréhension des autres et optimiser leurs interactions.
+
+👉 Les **dirigeants, managers et recruteurs** qui veulent affiner leur lecture des personnalités pour mieux communiquer et prendre des décisions plus éclairées.
+
+👉 Les **professionnels en contact direct avec le public** (conseillers, formateurs, avocats, coachs, travailleurs sociaux…) qui souhaitent renforcer leur posture et adapter leur discours selon leurs interlocuteurs.
+
+👉 Toute personne curieuse d’en savoir plus sur elle-même et sur les autres pour améliorer ses relations et sa prise de décision.
+
+**POURQUOI FAIRE?**
+
+✨ **Identifier ses atouts** et optimiser son potentiel professionnel et personnel.
+
+✨ **Comprendre et anticiper les réactions des autres**, qu’elles soient harmonieuses ou conflictuelles.
+
+✨ **Déceler des talents cachés** chez soi et chez les autres, pour mieux les valoriser.
+
+✨ **Prendre conscience de son image** et de la manière dont on est perçu.
+
+✨ **Améliorer sa communication et son impact** en ajustant sa posture et son discours en fonction des interlocuteurs.
+
+🚀 **Prêt(e) pour cette exploration intérieure ?** Découvrez votre **carte du monde intérieure** et apprenez à mieux vous positionner dans vos échanges ! 🧭💡
+
+**TARIF :**
+
+💰 **150€** 
+
+**MODALITÉS D'INSCRIPTION :**
+
+Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
