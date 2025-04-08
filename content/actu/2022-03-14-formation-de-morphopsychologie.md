@@ -35,6 +35,6 @@ description: "Un atelier d'une demi-journée d'initiation à la morphopsychologi
 
 💰 **150€** 
 
-**MODALITÉS D'INSCRIPTION :**
+**INSCRIPTION :** https://my.weezevent.com/soigner-votre-communication-grace-a-la-morphopsychologie-1 
 
 Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
