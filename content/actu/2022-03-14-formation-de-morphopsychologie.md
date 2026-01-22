@@ -1,7 +1,8 @@
 ---
-title: Formation
-date: "Vendredi 23 mai 2025 "
-description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
+title: ATELIER CONFERENCE - La morphopsychologie ou l'art de lire les visages
+date: Vendredi 6 février 2026
+description: Venez découvrir, expérimenter et repartez avec des clés de lecture
+  du visage pour mieux vous comprendre.
 ---
 **LIEU :** St Jean de Boiseau (44)
 
