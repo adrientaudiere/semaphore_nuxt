@@ -1,5 +1,5 @@
 ---
-title: ATELIER Soignez votre communication grâce à la morphopsychologie
+title: Formation
 date: "Vendredi 23 mai 2025 "
 description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
 ---
