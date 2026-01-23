@@ -4,7 +4,7 @@ date: Vendredi 6 février 2026
 description: Venez découvrir, expérimenter et repartez avec des clés de lecture
   du visage pour mieux vous comprendre.
 ---
-**LIEU :** St Jean de Boiseau (44)
+**L﻿ieu :** 
 
 **OBJECTIF** : sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
 
