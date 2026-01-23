@@ -5,9 +5,9 @@
         Toutes les Actualités
       </h1>
       <div
-        class="flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4 md:max-w-md"
+        class="flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
       >
-        <v-card v-for="New of news" :key="New.slug" class="my-3">
+        <v-card v-for="New of news" :key="New.slug" class="my-3 md:max-w-md">
           <NuxtLink :to="New.slug" class="text-vert_sombre">
             <v-card-text>
               <div class="text-violet font-bold font-serif">
