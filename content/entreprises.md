@@ -26,7 +26,7 @@ Vous souhaitez ponctuellement vous adosser sur un éclairage complémentaire con
 
 #### Par e-mail ou courrier :
 
-* Le flash : analyse des atouts / points de réserve / conclusion sur une page.
+* Le flash : analyse des atouts / points de réserve / conclusion sur une page.  
 * Le profil graphologique rédigé : le portrait du candidat et son adéquation au poste envisagé sont rédigés sur une page et demie.
 * L’étude graphologique approfondie : la prestation précédente est développée sur 3 pages. Les thèmes abordés sont plus nombreux et creusés.
 
