@@ -36,6 +36,6 @@ description: Venez découvrir, expérimenter et repartez avec des clés de lectu
 
 💰 **150€** 
 
-**INSCRIPTION :** https://my.weezevent.com/soigner-votre-communication-grace-a-la-morphopsychologie-1 
+**INSCRIPTION :** [https://my.weezevent.com/soigner-votre-communication-grace-a-la-morphopsychologie-1 ](https://my.weezevent.com/soigner-votre-communication-grace-a-la-morphopsychologie-1)
 
 Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
