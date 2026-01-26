@@ -71,7 +71,7 @@ export default {
 .links {
   padding-top: 15px;
 }
-.vcards {
+.vcard {
  max-width: 400px !important;
 }
 </style>
