@@ -1,29 +1,22 @@
 ---
-title: "FORMATION DE MORPHOPSYCHOLOGIE "
-date: PARIS 12, 13, 14 puis 26, 27 et 28 juin 2025
-description: La MP, un outil pour identifier les talents et renforcer les aptitudes
+title: Initiation à la morphopsychologie
+date: A distance le 16 avril 2026 de 12h30 à 14h
+description: "Observer, comprendre, ajuster : la morphopsychologie au service
+  des relations humaines"
 ---
-LIEU : Paris
+### Initiation à la morphopsychologie
 
-***Objectif :***
+**Comprendre les fonctionnements humains par l’observation**
 
-Professionnaliser le participant en lui permettant d'acquérir une compétence complémentaire en accompagnement et développement personnel et professionnel grâce à l'éclairage de la morphopsychologie.
+* Observer la **silhouette et le visage** pour décrypter les comportements
+* Découvrir les principaux **types morphologiques**  : Larges & Longilignes
+* Identifier leurs **ressorts profonds** : action, réflexion, relation, adaptation
+* Les 3 étages du visage (instinctif/affectif/cérébral),
+* le bâti osseux / les récepteurs 
+* le degré de tonicité
+* les modelés
+* les composantes enfantine, féminine et masculine
+* Mieux se connaître et **ajuster sa communication**
+* **Anticiper** les réactions et comportements de ses interlocuteurs
 
-Acquérir des connaissances nécessaires, tant pratiques que théoriques, à une bonne utilisation (efficace et éthique) de la morphopsychologie de manière à mieux se cerner et mieux comprendre les autres, prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
-
-Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
-
-Acquérir une méthodologie de restitution de portraits.
-
-S’approprier et affermir la pratique du portrait morphologique.
-
-***Public concerné* :**
-
-Tout consultant intéressé par un outil direct et immédiat ne nécessitant aucun accessoire, permettant d’identifier les aptitudes, comprendre un certain nombre de fonctionnements pour conseiller les personnes qu’il accompagne (bilans d’orientation, bilans de compétences, coaching, out-placement, partenariat, réinsertion et reclassement professionnels,…) mais aussi des personnes qui souhaitent mieux se connaître et comprendre les autres dans un cadre de développement personnel.
-
-***Prérequis* :** sans objet
-
-***Durée de la formation*** : 42 heures réparties sur 6 journées de formation (2 x 3)
-
-
-<a href="https://semaphore.fr/img/PROGRAMME_formation_Morphopsychologie_Paris_06_2025.pdf" target="_blank" rel="noopener noreferrer">PROGRAMME complet pdf</a>
+👉 Des clés accessibles, concrètes et directement applicables.
