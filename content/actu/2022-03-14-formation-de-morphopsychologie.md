@@ -1,5 +1,5 @@
 ---
-title: ATELIER CONFERENCE - La morphopsychologie ou l'art de lire les visages
+title: formation
 date: Vendredi 6 février 2026
 description: Venez découvrir, expérimenter et repartez avec des clés de lecture
   du visage pour mieux vous comprendre.
