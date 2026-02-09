@@ -1,40 +1,23 @@
 ---
-title: ATELIER Soignez votre communication grâce à la morphopsychologie
-date: Vendredi 20 juin 2025
-description: "Un atelier d'une demi-journée d'initiation à la morphopsychologie "
+title: Formation de morphopsychologie
+date: NANTES 19, 20, 21, 26, 27 et 28 octobre 2026
+description: La morphopsychologie, un outil pour identifier les talents et
+  renforcer les aptitudes
 ---
-**LIEU** : Domaine de la Foresterie à Vertou (44)
+**Objectif :**
+Professionnaliser le participant en lui permettant d'acquérir une compétence complémentaire en accompagnement et développement personnel et professionnel grâce à l'éclairage de la morphopsychologie.
 
-**OBJECTIF** : sensibiliser le public de 12 participants maximum à la morphopsychologie, un outil puissant pour améliorer votre communication, qu’elle soit professionnelle ou personnelle. Il ne s’agit pas d’une formation approfondie, mais d’une initiation qui vous permettra d’en découvrir tout le potentiel.
 
-**POUR QUI?**
+**Les compétences visées** à l’issue de cette formation sont les suivantes :
 
-👉 Les professionnels des domaines du **commerce, des ressources humaines, de la communication, du juridique et du social**, souhaitant améliorer leur compréhension des autres et optimiser leurs interactions.
+* Acquérir des connaissances nécessaires, tant pratiques que théoriques, à une bonne utilisation (efficace et éthique) de la morphopsychologie de manière à mieux se cerner et mieux comprendre les autres, prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
+* Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
+* Acquérir une méthodologie de restitution de portraits.
+* S’approprier et affermir la pratique du portrait morphologique.
 
-👉 Les **dirigeants, managers et recruteurs** qui veulent affiner leur lecture des personnalités pour mieux communiquer et prendre des décisions plus éclairées.
 
-👉 Les **professionnels en contact direct avec le public** (conseillers, formateurs, avocats, coachs, travailleurs sociaux…) qui souhaitent renforcer leur posture et adapter leur discours selon leurs interlocuteurs.
+  **Public concerné** : professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, mais aussi des personnes qui souhaitent mieux se connaître et comprendre les autres dans un cadre de développement personnel.
 
-👉 Toute personne curieuse d’en savoir plus sur elle-même et sur les autres pour améliorer ses relations et sa prise de décision.
+  **Durée de la formation** : 42 heures réparties sur 6 journées de formation (2 x 3 jours)
 
-**POURQUOI FAIRE?**
-
-✨ **Identifier ses atouts** et optimiser son potentiel professionnel et personnel.
-
-✨ **Comprendre et anticiper les réactions des autres**, qu’elles soient harmonieuses ou conflictuelles.
-
-✨ **Déceler des talents cachés** chez soi et chez les autres, pour mieux les valoriser.
-
-✨ **Prendre conscience de son image** et de la manière dont on est perçu.
-
-✨ **Améliorer sa communication et son impact** en ajustant sa posture et son discours en fonction des interlocuteurs.
-
-🚀 **Prêt(e) pour cette exploration intérieure ?** Découvrez votre **carte du monde intérieure** et apprenez à mieux vous positionner dans vos échanges ! 🧭💡
-
-**TARIF :**
-
-💰 **150€** 
-
-**INSCRIPTION : lien d'inscription à venir**
-
-Dès le rendez-vous pris, une place vous est réservée. La séance est due dès cet instant.
+  Programme complet
