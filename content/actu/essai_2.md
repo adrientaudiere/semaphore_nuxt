@@ -18,4 +18,4 @@ Professionnaliser le participant en lui permettant d'acquérir une compétence c
 
   **Durée de la formation** : 42 heures réparties sur 6 journées de formation (2 x 3 jours)
 
-  [Programme complet](https://semaphore.fr/static/img/programme-de-formation-morphopsychologie-nantes-10_2026.pdf)
+  [Programme complet](https://semaphore.fr/img/programme-de-formation-morphopsychologie-nantes-10_2026.pdf)
