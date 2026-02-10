@@ -21,7 +21,7 @@ export default {
     script: [
       {
         'data-goatcounter': 'https://semaphore.goatcounter.com/count',
-        src: '//gc.zgo.at/count.js',
+        src: 'https://gc.zgo.at/count.js',
         async: true
       }
     ]
