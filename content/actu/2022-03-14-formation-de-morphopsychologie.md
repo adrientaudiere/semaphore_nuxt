@@ -9,13 +9,16 @@ Professionnaliser le participant en lui permettant d'acquérir une compétence c
 
 **Les compétences visées** à l’issue de cette formation sont les suivantes :
 
-* Acquérir des connaissances nécessaires, tant pratiques que théoriques, à une bonne utilisation (efficace et éthique) de la morphopsychologie de manière à mieux se cerner et mieux comprendre les autres, prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
-* Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
-* Acquérir une méthodologie de restitution de portraits.
-* S’approprier et affermir la pratique du portrait morphologique.
+\- Acquérir des connaissances nécessaires, tant pratiques que théoriques, à une bonne utilisation (efficace et éthique) de la morphopsychologie de manière à mieux se cerner et mieux comprendre les autres, prendre conscience de l’intérêt d’être soi-même et d’utiliser en priorité ses ressources personnelles pour atteindre ses objectifs.
 
-  **Public concerné** : professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, mais aussi des personnes qui souhaitent mieux se connaître et comprendre les autres dans un cadre de développement personnel.
+\- Apprendre à reconnaître ses propres besoins, motivations et ressources et les identifier sur ses interlocuteurs de manière à mieux les accompagner à employer leur potentiel et compétences.
 
-  **Durée de la formation** : 42 heures réparties sur 6 journées de formation (2 x 3 jours)
+\-Acquérir une méthodologie de restitution de portraits.
 
-  [Programme complet](https://semaphore.fr/img/programme-de-formation-morphopsychologie-nantes-06_26.pdf)
+\- S’approprier et affermir la pratique du portrait morphologique.
+
+**Public concerné** : professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, mais aussi des personnes qui souhaitent mieux se connaître et comprendre les autres dans un cadre de développement personnel.
+
+**Durée de la formation** : 42 heures réparties sur 6 journées de formation (2 x 3 jours)
+
+[Programme complet](https://semaphore.fr/img/programme-de-formation-morphopsychologie-nantes-06_26.pdf)
