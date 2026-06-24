@@ -1,5 +1,5 @@
 ---
-title: Bien se connaître pour pitcher avec impact à supprimer
+title: Bien se connaître pour pitcher avec impact
 ---
 
 
