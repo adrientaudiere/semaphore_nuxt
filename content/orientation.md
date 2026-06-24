@@ -10,6 +10,8 @@ Tout au long de la vie, à 14 ans comme à 50 ans et plus, les questions d’o
 
 Ces étapes peuvent susciter des doutes, des interrogations ou un besoin de clarification.
 
+
+
 Je vous propose trois types d’accompagnement pour éclairer ces choix :
 
 * le bilan d’orientation, pour les jeunes à partir de 14 ans et pour les jeunes adultes qui souhaitent reprendre ou réorienter leurs études,
