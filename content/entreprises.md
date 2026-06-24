@@ -1,30 +1,7 @@
 ---
 title: Bien se connaître pour pitcher avec impact
 ---
-Avez-vous déjà essayé de présenter votre activité ou votre parcours professionnel en deux minutes ? Quand on est en recherche d’emploi, à son compte, porteuse ou porteur de projet, on doit souvent passer par cette étape. Ce moment s’appelle le pitch. 
 
-Cet exercice a pour but : 
-
-* d’amener la recruteuse ou le recruteur à vous embaucher,
-* de persuader la ou le professionnel en face de vous d’acheter votre produit ou votre prestation.
-
-## Mais comment créer un pitch impactant ?
-
-Avez-vous déjà cherché la bonne formule ? Trouver les bons mots prend beaucoup de temps. Vous apprenez votre message par cœur, mais vous manquez de naturel et d’aisance. Vous avez du mal à convaincre.
-
-La difficulté ne vient pas seulement du contenu.  Elle résulte aussi de l’absence d’alignement entre votre discours et votre manière de fonctionner. C’est pourquoi je vous propose une approche différente.
-
-Une consultation de morphopsychologie vous aide à  mieux vous connaître en découvrant quels  traits de votre visage révèlent votre personnalité et votre fonctionnement naturel et profond. 
-
-Cette lecture met en lumière :
-
-* vos talents,
-* vos ressources naturelles,
-* vos besoins fondamentaux,
-* vos leviers d’action,
-* votre singularité.
-
-Cette étape est essentielle pour construire un pitch qui vous ressemble.
 
 → En savoir plus sur une [consultation de morphopsychologie ](https://semaphore.fr/consultation/)
 
