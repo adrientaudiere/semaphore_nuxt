@@ -77,7 +77,7 @@ La prestation se déroule en deux rencontres au choix :
 L’objectif de ces deux séances est de :
 
 * clarifier votre positionnement,
-*  gagner en assurance dans votre présentation,
+* gagner en assurance dans votre présentation,
 * valoriser votre singularité,
 * porter un discours professionnel cohérent et décisif.
 
