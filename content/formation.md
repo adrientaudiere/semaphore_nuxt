@@ -4,7 +4,7 @@ title: Formations, conférences et ateliers de morphopsychologie
 Comprendre une personne ne se limite pas à ses paroles ou à ses actions.\
 Car derrière les comportements se trouvent des modes de fonctionnement qui influencent la manière de penser, de trouver sa place, d’agir et de réagir.
 
-La morphopsychologie propose une approche originale : l’observation du visage.\
+La morphopsychologie propose une approche originale : **l’observation du visage**.\
 Cette méthode permet d’éclairer les dispositions naturelles d’une personne et sa manière d’entrer en relation avec le monde qui l’entoure.
 
 Je propose des formations, des conférences et des ateliers pour découvrir cette approche et apprendre à l’utiliser dans sa pratique professionnelle.
