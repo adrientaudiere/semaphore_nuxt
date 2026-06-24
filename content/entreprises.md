@@ -83,4 +83,4 @@ Si vous souhaitez apprendre à pitcher avec impact et présenter votre projet av
 
 → [Contactez-moi par mail](mailto:semaphore@mailo.com)
 
-→ [Retrouvez plus d’informations sur la fiche de présentation](static/img/bien-se-connaitre-pour-pitcher-avec-impact.pdf).
+→ [Retrouvez plus d’informations sur la fiche de présentation](https://semaphore.fr/img/bien-se-connaitre-pour-pitcher-avec-impact.pdf).
