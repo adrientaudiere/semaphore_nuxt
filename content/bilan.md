@@ -1,5 +1,5 @@
 ---
-title: "Bilan d’orientation, bilan professionnel, bilan de compétences "
+title: Bilan d’orientation, bilan professionnel et de compétences
 ---
 Tout au long de la vie, à 14 ans comme à 50 ans et plus, les questions d’orientation et d’évolution professionnelle se posent : 
 
