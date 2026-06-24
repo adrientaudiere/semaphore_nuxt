@@ -81,6 +81,8 @@ L’objectif de ces deux séances est de :
 
 Si vous souhaitez apprendre à pitcher avec impact et présenter votre projet avec plus d’assurance, je serai ravie de vous accompagner.
 
-→ Retrouvez plus d’informations sur la fiche de présentation.
-
 → [Contactez-moi par mail](mailto:semaphore@mailo.com)
+
+→ Plus d’informations sur la fiche de présentation ci-dessous : 
+
+![](/img/bien-se-connaitre-pour-pitcher-avec-impact-semaphore.jpg)
