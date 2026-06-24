@@ -30,7 +30,7 @@ Cette étape est essentielle pour construire un pitch qui vous ressemble.
 
 ![Schéma intitulé "La morphopsychologie au service du pitch". Étape 1 : la consultation morphopsychologique permet de nommer sa singularité, ses talents et ressources, ses fragilités, ses besoins et les raisons de ses réactions. Ces éléments nourrissent l'étape 2 : la construction du pitch, qui permet de valoriser ce qui vous distingue, de construire votre pitch selon votre fonctionnement, d'anticiper et réguler vos réactions, et d'aligner votre discours et votre personnalité.](/img/pitcher-avec-impact-semaphore-laurence-crespel.jpg)
 
-Apprendre à convaincre votre audience en deux minutes
+## Apprendre à convaincre votre audience en deux minutes
 
 ### Construire un pitch clair et authentique
 
