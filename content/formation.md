@@ -1,63 +1,137 @@
 ---
-title: Formations et ateliers
+title: Formations, conférences et ateliers de morphopsychologie
 ---
-## Atelier de découverte :
+Comprendre une personne ne se limite pas à ses paroles ou à ses actions.\
+Car derrière les comportements se trouvent des modes de fonctionnement qui influencent la manière de penser, de trouver sa place, d’agir et de réagir.
 
-### Atelier de découverte de la morphopsychologie (3 heures)
+La morphopsychologie propose une approche originale : l’observation du visage.\
+Cette méthode permet d’éclairer les dispositions naturelles d’une personne et sa manière d’entrer en relation avec le monde qui l’entoure.
 
-Au-delà de la sympathie ou de l'antipathie que nous inspire un visage, hors de tout critère esthétique, la morphopsychologie est une technique de lecture du visage qui permet d'avoir accès à la spécificité d’une personne, ses dispositions, ses atouts, ses freins.
+Je propose des formations, des conférences et des ateliers pour découvrir cette approche et apprendre à l’utiliser dans sa pratique professionnelle.
 
-***Moyens mis en oeuvre :***
+## À qui s’adressent les formations de morphopsychologie, conférences et ateliers de Sémaphore ?
 
-* Apprendre à reconnaître les types large et longiligne, comprendre leurs comportements.
-* Observer et interpréter quelques éléments du visage comme les étages, les récepteurs, les profils, les composantes féminine, masculine, enfantine,…
-* Illustration et application sur de nombreuses photos, notamment de personnages célèbres.
+Cet outil peut s’avérer très utile dans de nombreux métiers en lien avec la communication, la négociation et l’accompagnement. En particulier si vous travaillez dans les domaines : 
 
-### Atelier de découverte de la graphologie (3 heures) :
+* du coaching, 
+* de l’orientation,
+* de la formation,
+* du conseil,
+* de l’enseignement, 
+* de la psychologie, 
+* des ressources humaines,
+* de l’investigation (profiling),
+* de la négociation,
+* du commerce.
 
-Grandes, petites, appuyées, légères, compactes, aérées, simples, sophistiquées,… Les écritures nous dévoilent de nombreux aspects de la personnalité des scripteurs. Des graphologues professionnels vous expliquent « comment ça marche » !
+La lecture du visage peut vous aider à accroître votre efficacité professionnelle et à mieux comprendre et aider les personnes avec qui vous travaillez au quotidien.
 
-***Moyens mis en oeuvre :***
+**→ Vous êtes coach ? La consultation en morphopsychologie peut compléter votre démarche.** \
+**[En savoir plus sur l’offre dédiée aux coachs](https://laurence-crespel.com/) !**
 
-* Se familiariser avec le maniement de documents manuscrits originaux.
-* De quelle manière travaillent les graphologues. Approche de cette science humaine adossée à une technique initiée il y a une centaine d’années en France et en Allemagne.
-* Quels sont les traits de personnalité que l’étude graphologique permet de déceler ?
-* Observation et interprétation de quelques écritures présentées.
+## Atelier de découverte de la morphopsychologie
 
-## Formations
+Je propose des ateliers d’initiation accessibles à toutes et tous pour découvrir cette approche de manière concrète.
 
-### Formation à la Morphopsychologie
+Lors de cet atelier, vous apprenez à :
 
-La morphopsychologie est une méthode d’observation du visage et de la silhouette créée par le Dr Louis CORMAN, qui permet d’accéder aux dispositions psychologiques et au type de comportement d’une personne. Suivant les lois d’un code biologique universel, la morphopsychologie étudie les liens existant entre les formes du visage et la personnalité d’un individu.
+* repérer les types larges et longilignes, 
+* comprendre leurs comportements,
+* déceler les atouts et les freins d’une personne,
+* analyser quelques éléments du visage, comme les étages, les récepteurs, les profils, les composantes féminines, masculines, enfantines…
 
-Pour en savoir plus, rendez-vous sur le site du [G.E.R.M.](http://morphopsy.com/index.php) (Groupe d’Etudes et de Recherches Morphobiologiques)
+ Nous visionnerons de nombreuses illustrations et pratiquerons ensemble à partir de photos, notamment de personnes célèbres.
 
-***Quels débouchés ?***
+Cet atelier permet de découvrir des repères simples pour observer les visages et mieux comprendre les comportements.
 
-* Les métiers des ressources humaines : bilan de compétences, mobilité interne, orientation professionnelle, orientation scolaire
-* Les métiers de conseil : développement personnel, coaching, relooking
-* Les métiers de communication : publicité, marketing
-* Les métiers de l’enseignement et de l’éducation : professeurs des écoles, enseignants, éducateurs
-* Les métiers de l’accompagnement et prise en charge : psychologie du travail, psychothérapie, relation d'aide
-* Les métiers de la santé : médecine, orthophonie, ostéopathie, chirurgie esthétique
-* Les métiers de commerce : négociations, transactions commerciales
-* Les métiers d'investigation : profiling
+J’en propose régulièrement sur ma [page d’accueil, dans la rubrique Actualités ](https://semaphore.fr/)
 
-Pour connaître les conditions et modalités de prise en charge, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
+**Durée de l’atelier : 3 h dans le lieu de votre choix ou à distance**
 
+Vous souhaitez découvrir la morphopsychologie lors d’un atelier et vous avez des questions ? Je serai ravie de vous renseigner.
 
+**→ [Recevoir les prochaines dates](mailto:semaphore@mailo.com)**
 
-## Conférences
+## Formation à la morphopsychologie
 
-![](/img/conf.png)
+Une formation complète est proposée pour celles et ceux qui désirent approfondir cette approche et apprendre à l’utiliser dans leur pratique professionnelle.
 
-Laurence CRESPEL TAUDIERE, consultante en morphopsychologie et graphologie, spécialisée en gestion R.H., recrutement, orientation et formation, Présidente du G.E.R.M. (Groupe d’Etudes et de Recherches Morphobiologiques) anime des conférences sur la morphopsychologie, son fonctionnement, ses atouts, son utilisation.
+### Les objectifs de la formation 
 
-Vous êtes à la recherche d’une idée originale pour l’organisation de votre séminaire, conférence, congrès, incentive, team building, colloque, convention ou autre événement professionnel sur le lieu de votre choix. Vous souhaitez proposer à vos clients ou à vos collaborateurs un thème fédérateur. La morphopsychologie suscite la curiosité et favorise la communication.
+Cette formation vise à vous transmettre les bases théoriques et pratiques de la morphopsychologie afin de mieux comprendre les traits de personnalité, les comportements et les besoins.\
+Elle permet d’apprendre à :
 
-***Formules proposées :***
+* observer le visage, 
+* identifier les dispositions, besoins et ressources d’une personne,
+* réaliser un portrait morphologique.
 
-* Un dîner conférence : présentation power point commentée suivie de brefs portraits morphopsychologiques des participants qui le souhaitent.
-* Un atelier d’initiation sur une ½ journée ou une journée
-* Une formule sur mesure adaptée à votre besoin.
-* Pour connaître nos tarifs et recevoir un devis gratuit, nous <a href="mailto:semaphore@mailo.com"> consulter</a>.
+L’objectif vise à acquérir un outil complémentaire pour mieux vous connaître et accompagner les autres dans leur développement personnel ou professionnel.
+
+### Le programme
+
+La formation se déroule sur six journées et alterne apports théoriques, observation et mise en pratique.\
+Vous découvrez les principaux repères de la morphopsychologie et leurs interprétations : 
+
+* types morphologiques, 
+* cadre, 
+* récepteurs, 
+* étages, 
+* massif facial
+* modelés,
+* réceptivité et tonicité,
+* teint,
+* composantes (enfantine, féminine, masculine)
+
+Vous apprenez progressivement à analyser, interpréter et construire un portrait morphologique grâce à des mises en situation supervisées.
+
+**→ Consultez les [prochaines formations dans la rubrique Actualité](https://semaphore.fr/actualite)**
+
+Souhaitez-vous vous former à la morphopsychologie ?\
+Contactez-moi pour recevoir le programme détaillé, les modalités de financements et les dates à venir.
+
+**→ [Recevoir les informations détaillées](mailto:semaphore@mailo.com)**
+
+### Quelques informations pratiques
+
+Durée de la formation : 6 jours (2 x 3 jours)
+
+6 participantes et participants maximum
+
+Où ? À Vertou. Je peux également intervenir ailleurs en France sur demande.
+
+Est-ce que vous êtes en situation de handicap ? Si c’est le cas, je vous invite à m’en faire part avant votre inscription pour que je puisse m’adapter à vos besoins.  
+
+**Le lieu de formation :**
+
+Mon cabinet est situé dans un jardin dont le chemin est légèrement accidenté. Les cyclistes peuvent y entrer leur vélo..
+
+Une signalétique extérieure vous indique le chemin à suivre pour accéder au cabinet, une fois dans le jardin.\
+La pièce, dans laquelle se déroule la formation, est lumineuse de manière naturelle et les chaises disposent d’assises larges.
+
+Des restaurants et supermarchés sont accessibles à 6 minutes en voiture.
+
+**→ [Lire mes portraits morphologiques de femmes et d’hommes plus ou moins célèbres ](https://semaphore.fr/publications/)**
+
+## Conférences et ateliers d’initiation
+
+La morphopsychologie peut également être présentée dans un cadre collectif lors de conférences ou d’ateliers d’initiation.
+
+**→ [Découvrez mon parcours](https://semaphore.fr/apropos)** 
+
+Vous recherchez une idée originale pour organiser :
+
+* votre séminaire,
+* une conférence, un congrès, un colloque ou une convention,
+* un événement d’entreprise pour améliorer la cohésion (team building, incentive…) de manière ludique et plaisante,
+* ou un autre type de rencontre professionnelle. 
+
+Vous souhaitez proposer à votre clientèle, ou à vos collaboratrices et collaborateurs un thème fédérateur. Vous verrez que la morphopsychologie suscite la curiosité et favorise la communication de manière joyeuse et surprenante.
+
+Je m’adapte au lieu de votre choix. Cela peut tout aussi bien être :
+
+* un dîner conférence avec une présentation commentée. Elle peut être suivie de brefs portraits morphologiques de participants ou de participantes qui le souhaitent.
+* ou bien un atelier d’initiation sur une demi-journée ou d’une journée complète. 
+
+Je vous propose des formules sur mesure adaptées à votre besoin.
+
+**→ [Je souhaite plus d’informations](mailto:semaphore@mailo.com)**
