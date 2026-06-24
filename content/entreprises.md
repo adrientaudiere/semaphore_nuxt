@@ -1,41 +1,86 @@
 ---
-title: Services aux entreprises
+title: Bien se connaître pour pitcher avec impact
 ---
-Vous êtes **chef d’entreprise**, cadre dirigeant ou responsable des ressources humaines.
-Vous menez vous-même et directement vos **missions de recrutement** et la gestion de votre personnel.
+Avez-vous déjà essayé de présenter votre activité ou votre parcours professionnel en deux minutes ? Quand on est en recherche d’emploi, à son compte, porteuse ou porteur de projet, on doit souvent passer par cette étape. Ce moment s’appelle le pitch. 
 
-Vous souhaitez ponctuellement vous adosser sur un éclairage complémentaire concernant une candidature, départager des candidats en short-list, confirmer la capacité d’un collaborateur à faire face à de nouvelles responsabilités, évaluer l’adéquation possible de deux personnalités appelées à travailler ensemble. Le compte rendu graphologique peut vous aider.
+Cet exercice a pour but : 
 
-## Le compte-rendu graphologique
+* d’amener la recruteuse ou le recruteur à vous embaucher,
+* de persuader la ou le professionnel en face de vous d’acheter votre produit ou votre prestation.
 
-**Efficace**, le compte-rendu graphologique offre un aperçu assez complet du potentiel d’un candidat selon la prestation que vous choisissez, sans nécessiter de déplacement, puisque les documents originaux peuvent être envoyés par courrier.
+## Mais comment créer un pitch impactant ?
 
-**Personnalisé**, il répond d’autant plus précisément à vos attentes qu’un profil de poste bien ajusté est réalisé. Le graphologue est l’un de vos interlocuteurs privilégiés, ce qui permet d’établir un rapport de confiance et d’enrichir sa connaissance de la culture de l’entreprise, facteur de performance.
+Avez-vous déjà cherché la bonne formule ? Trouver les bons mots prend beaucoup de temps. Vous apprenez votre message par cœur, mais vous manquez de naturel et d’aisance. Vous avez du mal à convaincre.
 
-**Confidentiels**, les comptes-rendus sont transmis sous pli confidentiel ou par e-mail.
+La difficulté ne vient pas seulement du contenu.  Elle résulte aussi de l’absence d’alignement entre votre discours et votre manière de fonctionner. C’est pourquoi je vous propose une approche différente.
 
-**Rapide**, les conclusions d’une étude sont disponibles sous 4 jours.
+Une consultation de morphopsychologie vous aide à  mieux vous connaître en découvrant quels  traits de votre visage révèlent votre personnalité et votre fonctionnement naturel et profond. 
 
-**Économique**, votre budget de recrutement est précisément contrôlé.
+Cette lecture met en lumière :
 
-## Des services modulables à votre disposition:
+* vos talents,
+* vos ressources naturelles,
+* vos besoins fondamentaux,
+* vos leviers d’action,
+* votre singularité.
 
-#### Par téléphone
+Cette étape est essentielle pour construire un pitch qui vous ressemble.
 
-* Le compte-rendu oral : le graphologue intervient rapidement après réception des documents. Peut être complété par une synthèse écrite sous forme de mémo.
+→ En savoir plus sur une [consultation de morphopsychologie ](https://semaphore.fr/consultation/)
 
-#### Par e-mail ou courrier :
+![Schéma intitulé "La morphopsychologie au service du pitch". Étape 1 : la consultation morphopsychologique permet de nommer sa singularité, ses talents et ressources, ses fragilités, ses besoins et les raisons de ses réactions. Ces éléments nourrissent l'étape 2 : la construction du pitch, qui permet de valoriser ce qui vous distingue, de construire votre pitch selon votre fonctionnement, d'anticiper et réguler vos réactions, et d'aligner votre discours et votre personnalité.](/img/pitcher-avec-impact-semaphore-laurence-crespel.jpg)
 
-* Le flash : analyse des atouts / points de réserve / conclusion sur une page.  
-* Le profil graphologique rédigé : le portrait du candidat et son adéquation au poste envisagé sont rédigés sur une page et demie.
-* L’étude graphologique approfondie : la prestation précédente est développée sur 3 pages. Les thèmes abordés sont plus nombreux et creusés.
+## Apprendre à convaincre votre audience en deux minutes
 
-Pour recevoir un devis gratuit, nous  <a href="mailto:semaphore@mailo.com"> consulter</a>.
+### Construire un pitch clair et authentique
 
-<div class="my-8"> 
+Pitcher avec impact ne consiste pas à réciter un discours parfait. Vous devez présenter votre projet de manière précise, cohérente et authentique.
 
-- - -
+Une fois vos ressources profondes révélées grâce à la consultation de morphopsychologie, nous construisons votre pitch en nous appuyant sur ce qui vous distingue réellement.
 
-La norme AFNOR <a href="doc/AFNOR.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> NFX-50767 relative aux cabinets de conseil en recrutement ainsi que le <a href="http://www.graphologie.asso.fr/index.php?id=53">code de déontologie</a> du Syndicat des Graphologues Professionnels de France et de la Société Française de Morphopsychologie sont votre garantie.
+Votre pitch s’articule autour de plusieurs éléments simples et concrets :
 
-<div>
+* qui vous êtes,
+* à qui vous vous adressez,
+* les solutions que vous proposez,
+* vos preuves,
+* votre appel à l’action.
+
+### Tester votre pitch et gagner en aisance
+
+Durant cette seconde séance, nous testons ensemble différentes formulations et ajustons vos arguments. Bien sûr, nous travaillons également votre aisance à l’oral.
+
+Vous repartez, ainsi, avec un pitch incarné, structuré, clair et mémorisable d’une durée maximale de deux minutes. Vous pouvez l’adapter et l’utiliser face à des partenaires, des prospects ou des employeuses et employeurs.
+
+Votre message se clarifie. Votre posture devient plus naturelle. Votre interlocutrice ou interlocuteur comprend, de cette façon, rapidement ce que vous pouvez lui apporter.
+
+## Qui est concerné par cette prestation en deux étapes ? 
+
+Bien se connaître pour pitcher avec impact s’adresse notamment :
+
+* aux personnes salariées ou en recherche d’emploi,
+* aux entrepreneurs et entrepreneuses,
+* aux adultes en reconversion,
+* aux porteuses et porteurs de projet.
+
+## Informations pratiques
+
+La prestation se déroule en deux rencontres au choix :
+
+* à Vertou, près de Nantes,
+* ou en visioconférence.
+
+ La durée totale est de 3 h 30.
+
+L’objectif de ces deux séances est de :
+
+* clarifier votre positionnement,
+*  gagner en assurance dans votre présentation,
+* valoriser votre singularité,
+* porter un discours professionnel cohérent et décisif.
+
+Si vous souhaitez apprendre à pitcher avec impact et présenter votre projet avec plus d’assurance, je serai ravie de vous accompagner.
+
+→ Retrouvez plus d’informations sur la fiche de présentation.
+
+→ [Contactez-moi par mail](mailto:semaphore@mailo.com)
