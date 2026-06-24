@@ -3,6 +3,8 @@ title: Consultation de morphopsychologie
 ---
 Avez-vous déjà eu l’impression de ne pas toujours comprendre vos propres réactions ? Vous demandez-vous pourquoi certaines situations vous semblent fluides ou au contraire vous déstabilisent ?
 
+
+
 La morphopsychologie apporte un éclairage précieux pour mieux se connaître et appréhender sa manière de penser, d’agir et de ressentir.
 
 Cette méthode d’observation a été développée par le Dr Louis Corman. Elle étudie les liens entre notre visage et certains aspects de notre personnalité.
@@ -43,11 +45,7 @@ Je vous propose ensuite un portrait morphologique en direct, basé sur l’obser
 
 Nous prenons ensuite le temps d’échanger autour de ce portrait, afin que vous puissiez partager votre ressenti et vos réactions. Et vous repartez avec l’enregistrement de la séance.
 
- 
-
 **→ Vous êtes coach et souhaitez enrichir votre accompagnement avec la morphopsychologie ?** [Découvrez mon offre dédiée](https://laurence-crespel.com/).
-
-
 
 ## À qui s’adresse cette grille de lecture de la personnalité ?
 
