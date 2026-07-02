@@ -1,9 +1,7 @@
 ---
 title: Consultation de morphopsychologie
 ---
-Avez-vous déjà eu l’impression de ne pas toujours comprendre vos propres réactions ? Vous demandez-vous pourquoi certaines situations vous semblent fluides ou au contraire vous déstabilisent ?
-
-
+Avez-vous déjà eu l’impression de ne pas toujours comprendre vos propres réactions ? Vous demandez-vous pourquoi certaines situations vous semblent fluides ou au contraire vous déstabilisent ? 
 
 La morphopsychologie apporte un éclairage précieux pour mieux se connaître et appréhender sa manière de penser, d’agir et de ressentir.
 
