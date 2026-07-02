@@ -13,7 +13,7 @@ Dans une entreprise comme dans un parcours de vie, chacun et chacune apporte sa 
 * ses expériences, 
 * ses dispositions naturelles.
 
-Mon travail consiste à mettre en lumière ces ressources afin de permettre des choix plus justes en termes d’orientation scolaire, évolution professionnelle, reconversion ou dynamique d’équipe.
+Mon travail consiste à mettre en lumière ces ressources afin de permettre des choix plus justes en termes d’orientation scolaire, évolution professionnelle, reconversion ou dynamique d’équipe. 
 
 ## Une approche centrée sur la connaissance de soi
 
