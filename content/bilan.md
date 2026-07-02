@@ -16,7 +16,7 @@ Je vous propose trois types d’accompagnement pour éclairer ces choix :
 * le bilan professionnel, pour réfléchir à son avenir professionnel à un moment charnière,
 * le bilan de compétences, pour construire un projet professionnel solide et structuré dans le cadre de votre CPF
 
-Chaque outil vise le même objectif : mieux comprendre vos ressources pour faire des choix cohérents avec votre personnalité, vos talents et vos aspirations.
+Chaque outil vise le même objectif : mieux comprendre vos ressources pour faire des choix cohérents avec votre personnalité, vos talents et vos aspirations. 
 
 ## Le bilan d’orientation pour les jeunes à partir de 14 ans
 
