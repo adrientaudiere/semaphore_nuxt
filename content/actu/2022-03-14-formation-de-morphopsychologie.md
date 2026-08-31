@@ -1,5 +1,5 @@
 ---
-title: 2 Formation de morphopsychologie
+title: Formation de morphopsychologie
 date: NANTES 12, 13, 14, 26, 27 et 28 novembre 2026
 description: La morphopsychologie, un outil pour identifier les talents et
   renforcer les aptitudes
