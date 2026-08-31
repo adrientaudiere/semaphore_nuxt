@@ -1,5 +1,5 @@
 ---
-title: 2 Initiation à la morphopsychologie
+title: Initiation à la morphopsychologie
 date: A distance le mardi 3 novembre 2026 de 12h30 à 14h
 description: "Observer, comprendre, ajuster : la morphopsychologie au service
   des relations humaines"
