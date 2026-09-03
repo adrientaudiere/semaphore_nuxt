@@ -8,6 +8,18 @@
   </div>
 </template>
 
+<script>
+// Import explicite plutot que l'auto-import de `components: true` :
+// celui-ci ne generait plus de registre et les deux composants etaient
+// rendus comme des balises inconnues, donc vides.
+import TheNavBar from '~/components/TheNavBar.vue'
+import TheFooter from '~/components/TheFooter.vue'
+
+export default {
+  components: { TheNavBar, TheFooter }
+}
+</script>
+
 <style>
 html {
   font-family:
