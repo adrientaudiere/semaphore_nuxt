@@ -37,9 +37,9 @@
           <fas icon="chalkboard-teacher" aria-hidden="true" />
           Formation et conférences
         </nuxt-link>
-        <nuxt-link to="/entreprises" class="block">
+        <nuxt-link to="/pitcheravecimpact" class="block">
           <fas icon="briefcase" aria-hidden="true" />
-          Entreprises
+          Pitcher avec impact
         </nuxt-link>
         <nuxt-link to="/orientation" class="block">
           <fas icon="street-view" aria-hidden="true" />
@@ -69,9 +69,9 @@
         <fas icon="chalkboard-teacher" aria-hidden="true" />
         Formation et conférences
       </nuxt-link>
-      <nuxt-link to="/entreprises" class="flex-auto">
+      <nuxt-link to="/pitcheravecimpact" class="flex-auto">
         <fas icon="briefcase" aria-hidden="true" />
-        Entreprises
+        Pitcher avec impact
       </nuxt-link>
       <nuxt-link to="/orientation" class="flex-auto">
         <fas icon="street-view" aria-hidden="true" />

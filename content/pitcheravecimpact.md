@@ -1,5 +1,5 @@
 ---
-title: Bien se connaître pour pitcher avec impact
+title: Pitcher avec impact
 ---
 Avez-vous déjà essayé de présenter votre activité ou votre parcours professionnel en deux minutes ? Quand on est en recherche d’emploi, à son compte, porteuse ou porteur de projet, on doit souvent passer par cette étape. Ce moment s’appelle le pitch. 
 
@@ -12,7 +12,7 @@ Cet exercice a pour but : 
 
 Avez-vous déjà cherché la bonne formule ? Trouver les bons mots prend beaucoup de temps. Vous apprenez votre message par cœur, mais vous manquez de naturel et d’aisance. Vous avez du mal à convaincre.
 
-La difficulté ne vient pas seulement du contenu.  Elle résulte aussi de l’absence d’alignement entre votre discours et votre manière de fonctionner. C’est pourquoi je vous propose une approche différente.
+La difficulté ne vient pas seulement du contenu. Elle résulte aussi de l’absence d’alignement entre votre discours et votre manière de fonctionner. C’est pourquoi je vous propose une approche différente.
 
 Une consultation de morphopsychologie vous aide à  mieux vous connaître en découvrant quels  traits de votre visage révèlent votre personnalité et votre fonctionnement naturel et profond. 
 
@@ -26,7 +26,7 @@ Cette lecture met en lumière :
 
 Cette étape est essentielle pour construire un pitch qui vous ressemble.
 
-→ En savoir plus sur une [consultation de morphopsychologie ](https://semaphore.fr/consultation/)
+→ En savoir plus sur une [consultation de morphopsychologie](https://semaphore.fr/consultation/)
 
 ![Schéma intitulé "La morphopsychologie au service du pitch". Étape 1 : la consultation morphopsychologique permet de nommer sa singularité, ses talents et ressources, ses fragilités, ses besoins et les raisons de ses réactions. Ces éléments nourrissent l'étape 2 : la construction du pitch, qui permet de valoriser ce qui vous distingue, de construire votre pitch selon votre fonctionnement, d'anticiper et réguler vos réactions, et d'aligner votre discours et votre personnalité.](/img/pitcher-avec-impact-semaphore-laurence-crespel.jpg)
 

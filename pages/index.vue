@@ -48,7 +48,7 @@
             Formation - conférence
           </p>
         </nuxt-link>
-        <nuxt-link class="hover:opacity-75" to="/entreprises">
+        <nuxt-link class="hover:opacity-75" to="/pitcheravecimpact">
           <img
             src="img/undraw/undraw_hire_te5y.min.svg"
             alt=""
@@ -56,7 +56,7 @@
             srcset=""
           >
           <p class="md:text-xl text-vert_sombre font-bold font-serif">
-            Services aux entreprises
+            Pitcher avec impact
           </p>
         </nuxt-link>
         <nuxt-link class="hover:opacity-75" to="/orientation">
