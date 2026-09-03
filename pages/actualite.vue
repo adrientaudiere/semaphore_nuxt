@@ -7,26 +7,30 @@
       <div
         class="flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8  px-4"
       >
-        <v-card v-for="New of news" :key="New.slug" class="my-3 md:max-w-md"">
-          <NuxtLink :to="New.slug" class="text-vert_sombre">
-            <v-card-text>
-              <div class="text-violet font-bold font-serif">
-                {{ New.title }}
-              </div>
-              <p class="display-1 text-violet">
-                {{ New.date }}
-              </p>
-              <div class="text--primary font-sans md:max-w-md">
-                {{ New.description }}
-              </div>
-            </v-card-text>
-            <v-card-actions>
-              <v-btn class="m-auto">
+        <div
+          v-for="New of news"
+          :key="New.slug"
+          class="my-3 w-full max-w-md bg-white rounded shadow-md overflow-hidden"
+        >
+          <NuxtLink :to="New.slug" class="block p-4 text-vert_sombre">
+            <div class="text-violet font-bold font-serif">
+              {{ New.title }}
+            </div>
+            <p class="text-3xl text-violet">
+              {{ New.date }}
+            </p>
+            <div class="text-gris font-sans text-sm">
+              {{ New.description }}
+            </div>
+            <div class="flex justify-center pt-2">
+              <span
+                class="bg-gris_clair bg-opacity-25 text-gris text-sm font-medium uppercase tracking-wide rounded px-4 py-2"
+              >
                 Plus d'info
-              </v-btn>
-            </v-card-actions>
+              </span>
+            </div>
           </NuxtLink>
-        </v-card>
+        </div>
       </div>
     </div>
   </div>
@@ -70,8 +74,5 @@ export default {
 }
 .links {
   padding-top: 15px;
-}
-.v-card {
- max-width: 400px !important;
 }
 </style>

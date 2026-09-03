@@ -91,26 +91,30 @@
       <div
         class="mb-0 flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8"
       >
-        <v-card v-for="New of news.slice(0, 5)" :key="New.slug" class="my-3">
-          <NuxtLink :to="New.slug" class="text-vert_sombre">
-            <v-card-text>
-              <div class="text-violet font-bold font-serif">
-                {{ New.title }}
-              </div>
-              <span class="display-1 text-violet text-indent">
-                {{ New.date }}
-              </span>
-              <div class="text--primary font-sans md:max-w-sm h-12">
-                {{ New.description.slice(0, 150) }} ...
-              </div>
-            </v-card-text>
-            <v-card-actions>
-              <v-btn class="m-auto">
+        <div
+          v-for="New of news.slice(0, 5)"
+          :key="New.slug"
+          class="my-3 w-full max-w-sm bg-white rounded shadow-md overflow-hidden"
+        >
+          <NuxtLink :to="New.slug" class="block p-4 text-vert_sombre">
+            <div class="text-violet font-bold font-serif">
+              {{ New.title }}
+            </div>
+            <span class="block text-3xl text-violet">
+              {{ New.date }}
+            </span>
+            <div class="text-gris font-sans text-sm md:max-w-sm h-12">
+              {{ New.description.slice(0, 150) }} ...
+            </div>
+            <div class="flex justify-center pt-2">
+              <span
+                class="bg-gris_clair bg-opacity-25 text-gris text-sm font-medium uppercase tracking-wide rounded px-4 py-2"
+              >
                 Plus d'info
-              </v-btn>
-            </v-card-actions>
+              </span>
+            </div>
           </NuxtLink>
-        </v-card>
+        </div>
       </div>
       <div class="mb-6">
         <nuxt-link

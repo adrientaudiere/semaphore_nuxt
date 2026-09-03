@@ -15,6 +15,7 @@ module.exports = {
       body: ['Quicksand', 'sans-serif']
     },
     colors: {
+      white: '#ffffff',
       gris: '#454839',
       bleu: '#A2B3BA',
       orange: '#AE4401',
