@@ -28,10 +28,6 @@ html {
   box-sizing: border-box;
 }
 
-p {
-  text-indent: 22px;
-}
-
 h1, h2, h3, h4, h5 {
   @apply font-sans;
   @apply font-semibold;
