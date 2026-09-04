@@ -17,6 +17,7 @@ Professionnaliser le participant en lui permettant d'acquérir une compétence c
 
 \- S’approprier et affermir la pratique du portrait morphologique.
 
+
 **Public concerné** : professionnels des RH, consultants, conseillers en orientation et reconversion, coachs, formateurs, négociateurs, thérapeutes, intervenants d’action sociale, mais aussi des personnes qui souhaitent mieux se connaître et comprendre les autres dans un cadre de développement personnel.
 
 **Durée de la formation** : 42 heures réparties sur 6 journées de formation (2 x 3 jours)
