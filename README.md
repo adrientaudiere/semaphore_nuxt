@@ -25,4 +25,6 @@ Chaque fichier markdown doit respecter le schéma déclaré dans `content.config
 
 ## Déploiement
 
-Netlify lit `netlify.toml` : commande `npm run generate`, dossier publié `.output/public`.
+Netlify lit `netlify.toml` : commande `npm run generate`, dossier publié `dist`.
+
+Attention : en local, `npm run generate` écrit dans `.output/public`, alors que sur Netlify Nitro bascule sur le preset `netlify-static` et écrit dans `dist`. Pour reproduire la sortie de Netlify en local : `NITRO_PRESET=netlify-static npm run generate`.

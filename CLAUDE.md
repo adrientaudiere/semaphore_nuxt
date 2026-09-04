@@ -53,7 +53,9 @@ Adding a frontmatter field means updating **three** places: the markdown, the zo
 
 ### Deployment
 
-`netlify.toml` pins the build: `npm run generate`, publish directory `.output/public`, Node 22 (Nuxt 4 requires Node 20+). It overrides whatever is configured in the Netlify UI.
+`netlify.toml` pins the build: `npm run generate`, publish directory `dist`, Node 22 (Nuxt 4 requires Node 20+). It overrides whatever is configured in the Netlify UI.
+
+**The publish directory differs between local and Netlify.** Locally `nuxt generate` writes to `.output/public`; on Netlify, Nitro auto-detects the host and switches to the `netlify-static` preset, which writes to `dist` instead. Pointing `publish` at `.output/public` makes the deploy fail with `Deploy directory '.output/public' does not exist` even though the build itself succeeded — the build log's `Nitro preset: netlify-static` line is the tell. To reproduce the Netlify output locally, run `NITRO_PRESET=netlify-static npm run generate`.
 
 `public/sw.js` is a **service-worker unregistration stub**, not a real service worker. The old Nuxt 2 site shipped a `@nuxtjs/pwa` worker that cached `/_nuxt/` CacheFirst; the stub clears those caches and unregisters itself so returning visitors get the new site. It can be deleted once the installed base has turned over. It is force-kept in git via a `!public/sw.js` exception, because `.gitignore` still holds a blanket `sw.*` rule.
 

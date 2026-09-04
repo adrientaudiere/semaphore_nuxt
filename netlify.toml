@@ -1,7 +1,15 @@
 [build]
   command = "npm run generate"
-  publish = ".output/public"
+
+  # Sur Netlify, Nitro bascule seul sur le preset `netlify-static`, qui ecrit
+  # dans `dist/` et non dans `.output/public/` comme en local. Pointer vers
+  # `.output/public` fait echouer le deploiement alors meme que le build a
+  # reussi, avec le message trompeur « Deploy directory does not exist ».
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
+
+  # Empeche la detection automatique de basculer les images sur l'Image CDN de
+  # Netlify : elles sont calculees au build, le site reste entierement statique.
   NUXT_IMAGE_PROVIDER = "ipxStatic"
