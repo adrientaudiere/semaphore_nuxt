@@ -1,13 +1,15 @@
-// tailwind.config.js
+// Repris a l'identique du site actuel.
+// Seule difference : `purge` devient `content` (renommage Tailwind 2 -> 3).
 module.exports = {
-  purge: [
-    './components/**/*.{vue,js}',
-    './layouts/**/*.vue',
-    './pages/**/*.vue',
-    './plugins/**/*.{js,ts}',
+  content: [
+    './app/components/**/*.{vue,js}',
+    './app/layouts/**/*.vue',
+    './app/pages/**/*.vue',
+    './app/plugins/**/*.{js,ts}',
+    './app/app.vue',
     './nuxt.config.{js,ts}'
   ],
-  darkMode: 'class', // or 'media' or 'class'
+  darkMode: 'class',
   theme: {
     fontFamily: {
       sans: ['Quicksand', 'sans-serif'],
