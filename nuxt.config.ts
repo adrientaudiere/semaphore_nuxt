@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
     '@nuxt/icon',
+    '@nuxt/image',
     '@nuxt/fonts'
   ],
 
@@ -19,6 +20,21 @@ export default defineNuxtConfig({
     families: [
       { name: 'Quicksand', provider: 'google', weights: [400, 500, 600, 700] }
     ]
+  },
+
+  // Images redimensionnees et converties en WebP.
+  //
+  // On ne fixe pas `provider` ici : le module choisit seul `ipx` en dev (ou un
+  // gestionnaire repond a la volee) et `ipxStatic` au `generate` (ou les fichiers
+  // sont ecrits sur disque). Epingler `ipxStatic` casse le dev, puisque les
+  // fichiers n'y existent pas encore.
+  //
+  // Sur Netlify, netlify.toml force NUXT_IMAGE_PROVIDER=ipxStatic pour empecher
+  // la detection automatique de basculer sur l'Image CDN de l'hebergeur : le site
+  // reste ainsi 100 % statique, sans dependance au runtime.
+  image: {
+    quality: 80,
+    format: ['webp']
   },
 
   css: ['~/assets/css/main.css'],

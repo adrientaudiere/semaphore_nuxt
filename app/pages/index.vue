@@ -21,20 +21,31 @@ useHead({
 </script>
 
 <template>
-  <div class="container p-0 flex-col">
+  <div class="page-shell flex-col">
     <div class="w-screen flex-auto h-full">
-      <h1 class="md:text-6xl mb-6 mt-12 text-vert_sombre text-center">
-        <img src="/img/logo.svg" class="w-16 inline" alt="">
-        <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
-          <a href="https://semaphore.fr/apropos/" class="text-violet">Me connaître</a>
-        </button>
-        Semaphore <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
-          <a href="mailto:semaphore@mailo.com" class="text-violet">Me contacter</a>
-        </button>
-        <button class="text-xl font-bold border-violet border-4 rounded-3xl p-2 align-middle">
-          <a href="https://semaphore.fr/publications/" class="text-violet">Mes publications</a>
-        </button>
-      </h1>
+      <header class="mb-6 mt-12 text-center">
+        <h1 class="md:text-6xl text-vert_sombre text-center">
+          <img src="/img/logo.svg" class="w-16 inline align-middle" alt="">
+          Sémaphore
+        </h1>
+        <p class="mt-2 text-xl text-gris">
+          Graphologue et morphopsychologue à Vertou
+        </p>
+        <nav
+          aria-label="Accès rapide"
+          class="mt-6 flex flex-wrap justify-center gap-4"
+        >
+          <NuxtLink to="/apropos" class="cta">
+            Me connaître
+          </NuxtLink>
+          <a href="mailto:semaphore@mailo.com" class="cta">
+            Me contacter
+          </a>
+          <NuxtLink to="/publications" class="cta">
+            Mes publications
+          </NuxtLink>
+        </nav>
+      </header>
       <hr class="text-vert_sombre my-4 border-2 opacity-25">
       <div
         class="grid grid-cols-2 gap-y-8 md:grid-cols-4 mx-2 md:mx-8 mb-4 gap-x-8"
@@ -65,13 +76,13 @@ useHead({
         </NuxtLink>
       </div>
 
-      <hr class="text-violet mt-8 border-2 opacity-75">
+      <hr class="text-violet mt-6 border-2 opacity-75">
 
       <h2 id="actualite" class="text-center text-violet">
         Actualités
       </h2>
       <div
-        class="mb-0 flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-8"
+        class="mb-0 flex flex-col md:flex-row md:flex-wrap justify-evenly items-center md:items-start md:m-4"
       >
         <div
           v-for="New of news.slice(0, 5)"
@@ -79,10 +90,10 @@ useHead({
           class="my-3 w-full max-w-sm bg-white rounded shadow-md overflow-hidden"
         >
           <NuxtLink :to="lien(New)" class="block p-4 text-vert_sombre">
-            <div class="text-violet font-bold font-serif">
+            <h3 class="text-violet font-bold font-serif mt-0 text-center text-base">
               {{ New.title }}
-            </div>
-            <span class="block text-3xl text-violet">
+            </h3>
+            <span class="block text-xl text-vert">
               {{ New.date }}
             </span>
             <div class="text-gris font-sans text-sm md:max-w-sm h-12">
@@ -90,7 +101,7 @@ useHead({
             </div>
             <div class="flex justify-center pt-2">
               <span
-                class="bg-gris_clair bg-opacity-25 text-gris text-sm font-medium uppercase tracking-wide rounded px-4 py-2"
+                class="bg-gris_clair bg-opacity-25 text-gris text-sm font-medium uppercase tracking-wide rounded px-4 py-2 md:mt-2"
               >
                 Plus d'info
               </span>
@@ -101,7 +112,7 @@ useHead({
       <div class="mb-6">
         <NuxtLink
           to="/actualite"
-          class="text-violet bg-bleu bg-opacity-50 p-2 rounded-lg mb-4"
+          class="text-violet bg-bleu bg-opacity-50 p-2 rounded-lg"
         >
           Archives des actualités
         </NuxtLink>
@@ -109,23 +120,3 @@ useHead({
     </div>
   </div>
 </template>
-
-<style>
-.container {
-  margin: 0 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  max-width: max-content;
-}
-
-.links {
-  padding-top: 15px;
-}
-
-button {
-  border-style: solid;
-}
-</style>

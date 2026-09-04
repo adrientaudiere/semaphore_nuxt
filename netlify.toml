@@ -4,3 +4,4 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  NUXT_IMAGE_PROVIDER = "ipxStatic"

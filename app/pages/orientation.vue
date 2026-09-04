@@ -14,18 +14,12 @@ useSeoMeta({
 </script>
 
 <template>
-  <div class="container p-0 flex-col">
+  <div class="page-shell flex-col">
     <div class="w-screen h-full">
-      <div class="my-12 text-left px-4 max-w-sm md:max-w-2xl m-auto">
+      <div class="prose-semaphore my-12 text-left px-4 max-w-sm md:max-w-2xl m-auto">
         <h1 class="text-center">{{ page.title }}</h1>
         <ContentRenderer :value="page" />
       </div>
     </div>
   </div>
 </template>
-
-<style>
-p {
-  padding-top: 14px;
-}
-</style>

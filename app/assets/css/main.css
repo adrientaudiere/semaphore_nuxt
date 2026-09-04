@@ -2,13 +2,169 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Repris de assets/css/main.sass du site actuel */
+/*
+  Tout le CSS global du site vit dans ce fichier.
+
+  Avant, il etait eparpille dans des blocs <style> non scopes de pages et du
+  layout. Comme un bloc non scope fuit sur tout le site des que son composant
+  est charge, la mise en page dependait du chemin de navigation : `.container`
+  n'avait pas le meme sens selon qu'on arrivait directement sur /apropos ou
+  qu'on y venait depuis l'accueil. Regrouper ici supprime cette incoherence.
+*/
+
 @layer base {
+  html {
+    font-family:
+      'Source Sans Pro',
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      Roboto,
+      'Helvetica Neue',
+      Arial,
+      sans-serif;
+    font-size: 16px;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
   h1 {
     @apply text-4xl;
   }
 
   h2 {
     @apply text-3xl;
+  }
+
+  h3 {
+    @apply text-xl;
+  }
+
+  h1, h2, h3, h4, h5 {
+    @apply font-sans font-semibold mt-4 text-left;
+  }
+
+  a {
+    @apply text-vert_sombre;
+  }
+
+  a:hover {
+    @apply text-opacity-50;
+  }
+
+  ul {
+    list-style: circle inside;
+  }
+}
+
+@layer components {
+  /*
+    Enveloppe de page, appliquee par le layout et par chaque page.
+    Remplace l'ancienne surcharge de `.container`, qui entrait en collision
+    avec l'utilitaire `container` de Tailwind.
+  */
+  /*
+    Ossature du site : colonne occupant au minimum toute la hauteur de la
+    fenetre. Le bloc principal absorbe l'espace restant (flex: 1 0 auto), ce
+    qui pousse le pied de page en bas quand le contenu est court, sans jamais
+    le detacher du document ni recouvrir le contenu sur les pages longues.
+
+    100svh (small viewport height) evite le decalage cause par la barre
+    d'adresse mobile ; 100vh reste en repli pour les navigateurs anciens.
+  */
+  .site-shell {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+  }
+
+  /*
+    Le bloc @supports est indispensable : ecrites l'une sous l'autre, les deux
+    declarations min-height sont fusionnees par le minifieur, qui ne garde que
+    la derniere et supprime donc le repli.
+  */
+  @supports (min-height: 100svh) {
+    .site-shell {
+      min-height: 100svh;
+    }
+  }
+
+  .site-main {
+    flex: 1 0 auto;
+    width: 100%;
+  }
+
+  .site-shell > footer {
+    flex-shrink: 0;
+  }
+
+  .page-shell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: max-content;
+    margin: 0;
+    padding: 0;
+  }
+
+  /*
+    Mise en forme du markdown rendu par <ContentRenderer>.
+    Ces regles doivent viser les elements generes par le composant enfant,
+    d'ou le ciblage par descendance plutot qu'un bloc <style scoped>, qui
+    ne les atteindrait pas.
+  */
+  .prose-semaphore p {
+    padding-top: 14px;
+  }
+
+  .prose-semaphore li {
+    list-style: circle inside;
+  }
+
+  .prose-semaphore blockquote {
+    font: 14px/22px normal helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    border-left: 5px solid;
+    @apply border-violet border-opacity-75;
+  }
+
+  .prose-semaphore blockquote p {
+    padding-top: 8px;
+  }
+
+  /* Lien a l'interieur d'un paragraphe de contenu : souligne discret. */
+  .prose-semaphore p a {
+    @apply border-b-2 border-vert_sombre border-opacity-25;
+  }
+
+  /*
+    Bouton d'appel a l'action de l'accueil.
+    C'etait auparavant un <button> contenant un <a>, imbrication invalide en
+    HTML : le bouton et le lien se disputaient le role et la navigation clavier.
+    C'est desormais un simple lien, qui prend juste l'apparence d'un bouton.
+  */
+  .cta {
+    @apply inline-block text-xl font-bold text-violet;
+    @apply border-4 border-violet rounded-3xl p-2;
+    @apply align-middle;
+  }
+
+  .cta:hover {
+    @apply bg-violet text-white;
   }
 }

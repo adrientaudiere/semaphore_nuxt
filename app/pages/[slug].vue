@@ -16,10 +16,10 @@ useSeoMeta({
 </script>
 
 <template>
-  <div class="container p-0 flex-col">
+  <div class="page-shell flex-col">
     <div class="w-screen h-full">
-      <div class="my-12 text-left px-4 max-w-sm md:max-w-2xl m-auto">
-        <h2>{{ actu.title }}</h2>
+      <div class="prose-semaphore my-12 text-left px-4 max-w-sm md:max-w-2xl m-auto">
+        <h1 class="text-3xl">{{ actu.title }}</h1>
         <p class="text-gris italic">
           Date : {{ actu.date }}
         </p>
@@ -28,10 +28,3 @@ useSeoMeta({
     </div>
   </div>
 </template>
-
-<style scoped>
-footer {
-  position: absolute;
-  bottom: 0%;
-}
-</style>

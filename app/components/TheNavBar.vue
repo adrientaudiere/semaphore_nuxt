@@ -3,35 +3,41 @@ const isHidden = ref(true)
 </script>
 
 <template>
-  <nav class="nav sm:w-screen">
+  <nav class="nav sm:w-screen" aria-label="Navigation principale">
     <div class="flex flex-row justify-between">
       <div
         v-if="isHidden"
-        id="nav-toogle"
         class="md:hidden bg-white fixed z-50"
-        @click="isHidden = false"
       >
-        <img
-          id="mobile_menu"
-          src="/img/trois_tirets.svg"
-          alt="menu icon"
-          class="h-8 m-2"
+        <button
+          type="button"
+          class="nav-toggle"
+          aria-expanded="false"
+          aria-controls="nav-content"
+          @click="isHidden = false"
         >
+          <img src="/img/trois_tirets.svg" alt="" class="h-8 m-2">
+          <span class="sr-only">Ouvrir le menu</span>
+        </button>
       </div>
       <div
         v-if="!isHidden"
         id="nav-content"
         class="bg-gris w-screen z-50 fixed"
       >
-        <img
-          src="/img/croix.svg"
-          alt="menu icon"
-          class="h-6 m-2"
+        <button
+          type="button"
+          class="nav-toggle"
+          aria-expanded="true"
+          aria-controls="nav-content"
           @click="isHidden = true"
         >
+          <img src="/img/croix.svg" alt="" class="h-6 m-2">
+          <span class="sr-only">Fermer le menu</span>
+        </button>
         <NuxtLink to="/" class="block">
           <Icon name="fa-solid:university" class="nav-icon" aria-hidden="true" />
-          Semaphore
+          Sémaphore
         </NuxtLink>
         <NuxtLink to="/apropos" class="block">
           <Icon name="fa-solid:id-card" class="nav-icon" aria-hidden="true" />
@@ -47,13 +53,13 @@ const isHidden = ref(true)
         </NuxtLink>
         <NuxtLink to="/orientation" class="block">
           <Icon name="fa-solid:street-view" class="nav-icon" aria-hidden="true" />
-          Ré(orientation)
+          (Ré)orientation
         </NuxtLink>
         <NuxtLink to="/consultation" class="block">
           <Icon name="fa-solid:users" class="nav-icon" aria-hidden="true" />
           Consultations
         </NuxtLink>
-        <NuxtLink to="/#actualite">
+        <NuxtLink to="/#actualite" class="block">
           <Icon name="fa-solid:calendar-alt" class="nav-icon" aria-hidden="true" />
           Actualités
         </NuxtLink>
@@ -63,7 +69,7 @@ const isHidden = ref(true)
     <div id="menu" class="hidden md:flex fixed bg-gris w-screen z-50">
       <NuxtLink to="/" class="flex-auto">
         <Icon name="fa-solid:university" class="nav-icon" aria-hidden="true" />
-        Semaphore
+        Sémaphore
       </NuxtLink>
       <NuxtLink to="/apropos" class="flex-auto">
         <Icon name="fa-solid:id-card" class="nav-icon" aria-hidden="true" />
@@ -87,6 +93,7 @@ const isHidden = ref(true)
       </NuxtLink>
       <NuxtLink to="/#actualite">
         <Icon name="fa-solid:calendar-alt" class="nav-icon" aria-hidden="true" />
+        <span class="sr-only">Actualités</span>
       </NuxtLink>
     </div>
   </nav>
@@ -126,6 +133,15 @@ a.router-link-active {
   border-top: 0;
   @apply border-vert;
   font-weight: 600;
+}
+
+/* Le declencheur du menu mobile est un vrai bouton, pour le clavier et les
+   technologies d'assistance. On neutralise juste l'apparence native. */
+.nav-toggle {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
 }
 
 @media (max-width: 1150px) {

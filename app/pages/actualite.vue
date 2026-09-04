@@ -19,7 +19,7 @@ useHead({
 </script>
 
 <template>
-  <div class="container p-0 flex-col">
+  <div class="page-shell flex-col">
     <div class="w-screen flex-auto h-full">
       <h1 id="actualite" class="text-center text-violet mt-16">
         Toutes les Actualités
@@ -33,9 +33,9 @@ useHead({
           class="my-3 w-full max-w-md bg-white rounded shadow-md overflow-hidden"
         >
           <NuxtLink :to="lien(New)" class="block p-4 text-vert_sombre">
-            <div class="text-violet font-bold font-serif">
+            <h2 class="text-violet font-bold font-serif mt-0 text-center text-base">
               {{ New.title }}
-            </div>
+            </h2>
             <p class="text-3xl text-violet">
               {{ New.date }}
             </p>
@@ -55,19 +55,3 @@ useHead({
     </div>
   </div>
 </template>
-
-<style>
-.container {
-  margin: 0 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  max-width: max-content;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>
