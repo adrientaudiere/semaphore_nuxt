@@ -5,7 +5,7 @@ title: À propos de Sémaphore
 
 Je m’appelle Laurence Crespel et suis consultante et morphopsychologue depuis plus de 30 ans. J’accompagne les personnes dans leurs réflexions autour de l’orientation, du développement professionnel et de la connaissance de soi.
 
-<img src="/img/vertou-26_02_26.jpg" class="float-right ml-4 md:ml-8 mt-4 mb-4 w-1/2 md:w-1/4 rounded-md"  alt="Photo Laurence Taudière avec un fond blanc." />
+![Laurence Crespel, graphologue et morphopsychologue](/img/vertou-26_02_26.jpg){class="float-right ml-4 md:ml-8 mt-4 mb-4 w-1/2 md:w-1/4 rounded-md" sizes="sm:50vw md:220px"}
 
 Dans une entreprise comme dans un parcours de vie, chacun et chacune apporte sa contribution à partir de :
 

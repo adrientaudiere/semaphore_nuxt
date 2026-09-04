@@ -11,42 +11,42 @@ title: Publications
 
 ## Cliquez sur les liens situés sous chaque photo pour découvrir les portraits!
 
-![https://urlz.fr/o5T3](/img/mme-de-senonnes2.png "Portrait morphologique de Madame de Senonnes")
+![Portrait morphologique de Madame de Senonnes](/img/mme-de-senonnes2.png)
 
 Portrait morphologique de Madame de Senonnes : https://urlz.fr/o8Mu
 
 
 
-![https://urlz.fr/o5XT](/img/le-condottière2.png "Portrait du Condottière")
+![Portrait du Condottière](/img/le-condottiere2.png)
 
 Portrait du Condottière : https://urlz.fr/o5XT
 
 
 
-![](/img/mme-louis-cézard2.png "Portrait de Madame Louis Cézard")
+![Portrait de Madame Louis Cézard](/img/mme-louis-cezard2.png)
 
 Portrait de Madame Louis Cézard : https://urlz.fr/o5YE
 
 
 
-![](/img/louis-françois-bertin2.png "Portrait de Louis-François Bertin")
+![Portrait de Louis-François Bertin](/img/louis-francois-bertin2.png)
 
 Portrait de Louis-François Bertin : https://urlz.fr/o5YT
 
 
 
-![](/img/luisa-vertova-agosti2.png "Portrait de Luisa Vertova Agosti")
+![Portrait de Luisa Vertova Agosti](/img/luisa-vertova-agosti2.png)
 
 Portrait de Luisa Vertova Agosti : https://urlz.fr/o5Z4
 
 
 
-![](/img/jean-de-la-fontaine2.png "Portrait de Jean de La Fontaine")
+![Portrait de Jean de La Fontaine](/img/jean-de-la-fontaine2.png)
 
 Portrait de Jean de La Fontaine : https://urlz.fr/o5Zp
 
 
 
-![](/img/alexandre-dumas2.png "Portrait d'Alexandre Dumas")
+![Portrait d'Alexandre Dumas](/img/alexandre-dumas2.png)
 
 Portrait d'Alexandre Dumas : https://urlz.fr/o5ZB

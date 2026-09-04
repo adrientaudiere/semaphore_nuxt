@@ -1,50 +1,27 @@
 {
-  "name": "semaphore",
+  "name": "semaphore-nuxt4",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt dev",
     "build": "nuxt build",
-    "start": "nuxt start",
     "generate": "nuxt generate",
-    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore . assets/Fork-Awesome-1.1.7/*",
-    "lint": "npm run lint:js",
-    "test": "jest"
+    "preview": "nuxt preview"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.35",
-    "@fortawesome/free-brands-svg-icons": "^5.15.3",
-    "@fortawesome/free-solid-svg-icons": "^5.15.3",
-    "@fortawesome/vue-fontawesome": "^0.1.10",
-    "@nuxt/content": "^1.11.1",
-    "core-js": "^3.8.2",
-    "nuxt": "^2.14.12",
-    "nuxt-compress": "^4.1.0",
-    "nuxt-fontawesome": "^0.4.0"
+    "@nuxt/content": "^3.16.0",
+    "@nuxt/icon": "^2.5.1",
+    "@nuxt/image": "^2.1.0",
+    "better-sqlite3": "^13.0.3",
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@nuxt/image": "^0.4.1",
-    "@nuxtjs/eslint-config": "^5.0.0",
-    "@nuxtjs/eslint-module": "^3.0.2",
-    "@nuxtjs/imagemin": "^1.0.1",
-    "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/tailwindcss": "^3.4.2",
-    "@nuxtjs/vuetify": "^1.11.3",
-    "@vue/test-utils": "^1.1.2",
-    "babel-core": "7.0.0-bridge.0",
-    "babel-eslint": "^10.1.0",
-    "babel-jest": "^26.6.3",
-    "eslint": "^7.18.0",
-    "eslint-config-prettier": "^7.2.0",
-    "eslint-loader": "^4.0.2",
-    "eslint-plugin-nuxt": "^2.0.0",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-vue": "^7.4.1",
-    "fibers": "^5.0.0",
-    "jest": "^26.6.3",
-    "prettier": "^1.19.1",
-    "sass": "^1.32.8",
-    "sass-loader": "^10.1.1",
-    "vue-jest": "^3.0.4"
+    "@iconify-json/fa-brands": "^1.2.0",
+    "@iconify-json/fa-solid": "^1.2.0",
+    "@nuxt/fonts": "^0.14.0",
+    "@nuxtjs/tailwindcss": "^6.14.0"
   }
 }
